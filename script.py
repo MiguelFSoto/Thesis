@@ -102,7 +102,7 @@ dataframe.columns = ['A', 'B', 'Weight']
 dataframe['wordA'] = dataframe['A'].map(indexWord)
 dataframe['wordB'] = dataframe['B'].map(indexWord)
 
-dot = graphviz.Digraph()
+dot = graphviz.Graph('G', engine='sfdp')
 graph = nx.Graph()
 
 # Create the data frame 
@@ -112,9 +112,10 @@ for _, row in dataframe.iterrows():
     w = row['Weight']
     graph.add_edge(a, b, weight = w)
 
-    dot.node(row['A'], row['wordA'])
-    dot.node(row['B'], row['wordB'])
-    dot.edge(row['A'], row['B'], weight = w)
+    dot.node(str(row['A']), row['wordA'])
+    dot.node(str(row['B']), row['wordB'])
+    dot.edge(str(row['A']), str(row['B']), label = str(w))
+dot.view()
 
 # Obtener las posiciones de los nodos para el gráfico
 positions = nx.spring_layout(graph)
