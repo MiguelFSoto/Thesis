@@ -1,0 +1,131 @@
+Processing natural language text and extract useful information from the given word, a sentence using machine learning and deep learning techniques requires the string/text needs to be converted into a set of real numbers (a vector) — Word Embeddings.
+
+Word Embeddings or Word vectorization is a methodology in NLP to map words or phrases from vocabulary to a corresponding vector of real numbers which used to find word predictions, word similarities/semantics.
+
+The process of converting words into numbers are called Vectorization.
+
+Word embeddings help in the following use cases.
+
+Compute similar words
+Text classifications
+Document clustering/grouping
+Feature extraction for text classifications
+Natural language processing.
+After the words are converted as vectors, we need to use some techniques such as Euclidean distance, Cosine Similarity to identify similar words.
+
+Why Cosine Similarity
+Count the common words or Euclidean distance is the general approach used to match similar documents which are based on counting the number of common words between the documents.
+
+This approach will not work even if the number of common words increases but the document talks about different topics. To overcome this flaw, the “Cosine Similarity” approach is used to find the similarity between the documents.
+
+
+Figure 1: Cosine Distance. Ref: https://bit.ly/2X5470I
+Mathematically, it measures the cosine of the angle between two vectors (item1, item2) projected in an N-dimensional vector space. The advantageous of cosine similarity is, it predicts the document similarity even Euclidean is distance.
+
+“Smaller the angle, the higher the similarity” — Cosine Similarity.
+
+Let’s see an example.
+
+Julie loves John more than Linda loves John
+Jane loves John more than Julie loves John
+John  2   2
+Jane  0   1
+Julie 1   1
+Linda 1   0
+likes 0   1
+loves 2   1
+more  1   1
+than  1   1
+the two vectors are,
+
+Item 1: [2, 0, 1, 1, 0, 2, 1, 1]
+Item 2: [2, 1, 1, 0, 1, 1, 1, 1]
+
+The cosine angle (the smaller the angle) between the two vectors' value is 0.822 which is nearest to 1.
+
+Now let’s see what are all the ways to convert sentences into vectors.
+
+Word embeddings coming from pre-trained methods such as,
+
+Word2Vec — From Google
+Fasttext — From Facebook
+Glove — From Standford
+In this blog, we will see the most popular embedding architecture called Word2Vec.
+
+Word2Vec
+
+Word2Vec — Word representations in Vector Space founded by Tomas Mikolov and a group of a research team from Google developed this model in 2013.
+
+Why Word2Vec technique is created:
+
+Most of the NLP systems treat words as atomic units. There is a limitation of the existing systems that there is no notion of similarity between words. Also, the system works for small, simpler and outperforms on less data which is only a few billions of data or less.
+
+In order to train with a larger dataset with complex models, the modern techniques use a neural network architecture to train complex data models and outperforms for huge datasets with billions of words and with millions of words vocabulary.
+
+This technique helps to measure the quality of the resulting vector representations. This works with similar words that tend to close with words that can have multiple degrees of similarity.
+
+Syntactic Regularities: Refers to grammatical sentence correction.
+
+Semantic Regularities: Refers to the meaning of the vocabulary symbols arranged in that structure.
+
+
+Figure 2: Five Syntactic and Semantic word relationship test set. Ref: https://arxiv.org/pdf/1301.3781.pdf
+The proposed technique was found that the similarity of word representations goes beyond syntactic regularities and works surprisingly good for algebraic operations of word vectors. For example,
+
+Vector(“King”) — Vector(“Man”)+Vector(“Woman”) = Word(“Queen”)
+
+where “Queen” is the closest result vector of word representations.
+
+The following model architectures for word representations' objectives are to maximize the accuracy and minimize the computation complexity. The models are,
+
+FeedForward Neural Net Language Model (NNLM)
+Recurrent Neural Net Language Model (RNNLM)
+All the above-mentioned models are trained using Stochastic gradient descent and backpropagation.
+
+FeedForward Neural Net Language Model (NNLM)
+
+The NNLM model consists of input, projection, hidden and output layers. This architecture becomes complex for computation between the projection and the hidden layer, as values in the projection layer dense.
+
+Recurrent Neural Net Language Model (RNNLM)
+
+RNN model can efficiently represent more complex patterns than the shallow neural network. The RNN model does not have a projection layer; only input, hidden and output layer.
+
+Models should be trained for huge datasets using a large-scale distributed framework called DistBelief, which would give better results. The proposed new two models in Word2Vec such as,
+
+Continuous Bag-of-Words Model
+Continuous Skip-gram Model
+uses distributed architecture which tries to minimize computation complexity.
+
+Continuous Bag-of-Words Model
+
+We denote this model as CBOW. The CBOW architecture is similar to the feedforward NNLM, where the non-linear hidden layer is removed and the projection layer is shared for all the words; thus all words get projected into the same position.
+
+
+Figure 3: CBOW architecture. Ref: https://bit.ly/2NXbraK
+CBOW architecture predicts the current word based on the context.
+
+Continuous Skip-gram Model
+
+The skip-gram model is similar to CBOW. The only difference is instead of predicting the current word based on the context, it tries to maximize the classification of a word based on another word in the same sentence.
+
+
+Figure 4: Skip-gram architecture. Reference — https://bit.ly/2NXbraK
+Skip-gram architecture predicts surrounding words given the current word.
+
+Word2Vec Architecture Implementation — Gensim
+
+Gensim library will enable us to develop word embeddings by training our own word2vec models on a custom corpus either with CBOW of skip-grams algorithms.
+
+The implementation library can be found here — https://bit.ly/33ywiaW.
+
+Conclusion
+
+Natural Language Processing requires texts/strings to real numbers called word embeddings or word vectorization
+Once words are converted as vectors, Cosine similarity is the approach used to fulfill most use cases to use NLP, Documents clustering, Text classifications, predicts words based on the sentence context
+Cosine Similarity — “Smaller the angle, higher the similarity
+Most famous architectures such as Word2Vec, Fasttext, Glove helps to converts word vectors and leverage cosine similarity for word similarity features
+NNLM, RNNLM outperforms for the huge dataset of words. But computation complexity is a big overhead
+To overcome the computation complexity, the Word2Vec uses CBOW and Skip-gram architecture in order to maximize the accuracy and minimize the computation complexity
+CBOW architecture predicts the current word based on the context
+Skip-gram architecture predicts surrounding words given the current word
+Details explained about Word2Vec architecture paper.

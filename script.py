@@ -1,8 +1,8 @@
-import torch
-from torch.autograd import Variable
+# import torch
+# from torch.autograd import Variable
+# import torch.functional as func
+# import torch.nn.functional as nnfunc
 import numpy as np
-import torch.functional as func
-import torch.nn.functional as nnfunc
 import networkx as nx
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -52,17 +52,17 @@ nltk.download('omw-1.4')
 nltk.download('universal_tagset')
 nltk.download('stopwords')
 
-filePath = 'test_text.txt'
-with open(filePath, 'r') as file:
+filePath = 'pepeloni.txt'
+with open(filePath, 'r', encoding="utf-8") as file:
     corpus = file.read()
 
 corpus = unidecode(corpus.lower())
 corpus = regexSubstitute(r'[^a-z\s]', '', corpus)
-corpus = regexSubstitute(r'\s+', ' ', corpus)
+corpus = regexSubstitute(r'\s+', ' ', corpus).split()
 
 stopWords = set(stopwords.words('english'))
 stopWords.update(['us','whose'])
-tokenCorpus = word_tokenize(corpus - stopWords)
+tokenCorpus = word_tokenize(str.join(" ",[x for x in corpus if x not in stopWords]))
 
 patternTags = nltk.pos_tag(tokenCorpus)
 
@@ -102,7 +102,7 @@ dataframe.columns = ['A', 'B', 'Weight']
 dataframe['wordA'] = dataframe['A'].map(indexWord)
 dataframe['wordB'] = dataframe['B'].map(indexWord)
 
-dot = graphviz.Graph('G', engine='sfdp')
+dot = graphviz.Graph('Word Graph', engine='neato')
 graph = nx.Graph()
 
 # Create the data frame 
@@ -114,11 +114,63 @@ for _, row in dataframe.iterrows():
 
     dot.node(str(row['A']), row['wordA'])
     dot.node(str(row['B']), row['wordB'])
-    dot.edge(str(row['A']), str(row['B']), label = str(w))
-dot.view()
+    dot.edge(str(row['A']), str(row['B']), weight= str(w))
+dot.render(filename="wordgraph.gv")
+#dot.attr(attrs={"overlap": "scale", "splines": "true"})
+#dot.view()
 
 # Obtener las posiciones de los nodos para el gráfico
 positions = nx.spring_layout(graph)
 
 # Obtener los pesos de las aristas
 weights = nx.get_edge_attributes(graph, 'weight')
+
+for node in graph.nodes:
+    shortest_path = nx.shortest_path(graph, source=node, weight='weight')
+    degree_centrality = nx.degree_centrality(graph)
+    betweenness_centrality = nx.betweenness_centrality(graph, weight='weight')
+    closeness_centrality = nx.closeness_centrality(graph, distance='weight')
+    clustering_coefficient = nx.clustering(graph, weight='weight')
+
+df_metrics = pd.DataFrame(indexWord.items(), columns=['Node', 'word'])
+df_metrics['frequency_word'] = df_metrics['word'].map(frequency)
+df_metrics['shortest_path'] = df_metrics['Node'].map(shortest_path)
+df_metrics['degree_centrality'] = df_metrics['Node'].map(degree_centrality)
+df_metrics['betweenness_centrality'] = df_metrics['Node'].map(betweenness_centrality)
+df_metrics['closeness_centrality'] = df_metrics['Node'].map(closeness_centrality)
+df_metrics['clustering_coefficient'] = df_metrics['Node'].map(clustering_coefficient)
+df_metrics['eigenvector_centrality'] = df_metrics['Node'].map(nx.eigenvector_centrality(graph, weight='weight'))
+df_metrics = df_metrics.sort_values("eigenvector_centrality", ascending=False)
+
+def class_quartiles(df,name):
+    name1 = 'Class_' + name + 'low'
+    name2 = 'Class_' + name + 'medium'
+    name3 = 'Class_' + name + 'high'
+    quartiles = np.percentile(df[name], [25, 50, 75])
+    df[name1] = np.where(df[name] >= quartiles[2], 1, 0)
+    df[name2] = np.where((df[name] > quartiles[0]) & (df[name] < quartiles[2]), 1, 0)
+    df[name3] = np.where((df[name] <= quartiles[0]) | (df[name] >= quartiles[2]), 1, 0)
+    return df
+
+df_metrics=class_quartiles(df_metrics,'degree_centrality')
+df_metrics=class_quartiles(df_metrics,'betweenness_centrality')
+df_metrics=class_quartiles(df_metrics,'closeness_centrality')
+df_metrics=class_quartiles(df_metrics,'clustering_coefficient')
+df_metrics=class_quartiles(df_metrics,'eigenvector_centrality')
+
+## save the metrics in a csv file
+df_metrics.to_csv('metrics.csv', index=False)
+
+## create the dataframe only with the word and all columns beging Class
+
+df_metrics_class=df_metrics.filter(regex='Class', axis=1)
+
+# df_metric aggregate the metrics of each word in THE FIRST COLUMN
+df_metrics_class['word']=df_metrics['word']
+
+columnas = df_metrics_class.columns.tolist()
+columnas = [columnas[-1]] + columnas[:-1]
+df_metrics_class = df_metrics_class[columnas]
+
+# save the dataframe in a csv file
+df_metrics_class.to_csv('metrics_class.csv', index=False)
