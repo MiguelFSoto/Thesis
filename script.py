@@ -1,4 +1,6 @@
 # import torch
+# from PyPDF4 import PdfFileReader
+from pypdf import PdfReader
 # from torch.autograd import Variable
 # import torch.functional as func
 # import torch.nn.functional as nnfunc
@@ -52,9 +54,15 @@ nltk.download('omw-1.4')
 nltk.download('universal_tagset')
 nltk.download('stopwords')
 
-filePath = 'pepeloni.txt'
-with open(filePath, 'r', encoding="utf-8") as file:
-    corpus = file.read()
+reader = PdfReader("arxivtest.pdf")
+corpus = ""
+for page in reader.pages:
+    corpus += page.extract_text()
+print(corpus)
+
+# filePath = 'medium_text.txt'
+# # with open(filePath, 'r', encoding="utf-8") as file:
+# #     corpus = file.read()
 
 corpus = unidecode(corpus.lower())
 corpus = regexSubstitute(r'[^a-z\s]', '', corpus)
@@ -63,6 +71,7 @@ corpus = regexSubstitute(r'\s+', ' ', corpus).split()
 stopWords = set(stopwords.words('english'))
 stopWords.update(['us','whose'])
 tokenCorpus = word_tokenize(str.join(" ",[x for x in corpus if x not in stopWords]))
+print("token done")
 
 patternTags = nltk.pos_tag(tokenCorpus)
 
@@ -73,6 +82,7 @@ for token, tag in patternTags:
     lemma = lemmatizer.lemmatize(token, pos = tagConversion(tag))
     lemmas.append(lemma)
     vocab.add(lemma)
+print("lemma done")
 
 frequency = FreqDist(tokenCorpus)
 
@@ -93,6 +103,8 @@ for centerPos in range(len(lemmas)):
             indexPairs.append((centerIndex, contextIndex))
 
 freqPairs = freqArray(indexPairs)
+print("pairing done")
+
 np.savetxt('pairFrequency.csv',  freqPairs, delimiter=',', fmt='%d')
 
 matrix = conMatrix(freqPairs)
@@ -104,6 +116,7 @@ dataframe['wordB'] = dataframe['B'].map(indexWord)
 
 dot = graphviz.Graph('Word Graph', engine='neato')
 graph = nx.Graph()
+print("graph done")
 
 # Create the data frame 
 for _, row in dataframe.iterrows():
@@ -118,6 +131,7 @@ for _, row in dataframe.iterrows():
 dot.render(filename="wordgraph.gv")
 #dot.attr(attrs={"overlap": "scale", "splines": "true"})
 #dot.view()
+print("dataframe done")
 
 # Obtener las posiciones de los nodos para el gráfico
 positions = nx.spring_layout(graph)
@@ -125,12 +139,14 @@ positions = nx.spring_layout(graph)
 # Obtener los pesos de las aristas
 weights = nx.get_edge_attributes(graph, 'weight')
 
+print("maybe here")
 for node in graph.nodes:
     shortest_path = nx.shortest_path(graph, source=node, weight='weight')
     degree_centrality = nx.degree_centrality(graph)
     betweenness_centrality = nx.betweenness_centrality(graph, weight='weight')
     closeness_centrality = nx.closeness_centrality(graph, distance='weight')
     clustering_coefficient = nx.clustering(graph, weight='weight')
+print("maybe not")
 
 df_metrics = pd.DataFrame(indexWord.items(), columns=['Node', 'word'])
 df_metrics['frequency_word'] = df_metrics['word'].map(frequency)
@@ -174,3 +190,4 @@ df_metrics_class = df_metrics_class[columnas]
 
 # save the dataframe in a csv file
 df_metrics_class.to_csv('metrics_class.csv', index=False)
+print("metrics done")
