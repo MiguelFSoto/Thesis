@@ -1,9 +1,4 @@
-# import torch
-# from PyPDF4 import PdfFileReader
 from pypdf import PdfReader
-# from torch.autograd import Variable
-# import torch.functional as func
-# import torch.nn.functional as nnfunc
 import numpy as np
 import networkx as nx
 import matplotlib.pyplot as plt
@@ -16,7 +11,9 @@ from nltk.tokenize import word_tokenize
 from nltk.probability import FreqDist
 from nltk.stem import WordNetLemmatizer
 from re import sub as regexSubstitute
+from cleantext import clean
 
+#Converts POS tags to accepted format
 def tagConversion(tag):
     tagsetMapping = {
         'J': wordnet.ADJ,
@@ -31,6 +28,7 @@ def tagConversion(tag):
 
     return tag
 
+#Creates structures with frequency to get the graph
 def freqArray(pairs):
     uniquePairs, counts = np.unique(pairs, axis = 0, return_counts = True)
     counts = counts.reshape(-1, 1)
@@ -54,16 +52,30 @@ nltk.download('omw-1.4')
 nltk.download('universal_tagset')
 nltk.download('stopwords')
 
+#Get the raw text from the pdf
 reader = PdfReader("arxivtest.pdf")
 corpus = ""
 for page in reader.pages:
     corpus += page.extract_text()
+
+#Clean up the text
+clean(corpus,
+    fix_unicode=True,               # fix various unicode errors
+    to_ascii=True,                  # transliterate to closest ASCII representation
+    lower=True,                     # lowercase text
+    no_line_breaks=True,           # fully strip line breaks as opposed to only normalizing them
+    no_urls=True,                  # replace all URLs with a special token
+    no_emails=True,                # replace all email addresses with a special token
+    no_phone_numbers=True,         # replace all phone numbers with a special token
+    no_numbers=True,               # replace all numbers with a special token
+    no_digits=True,                # replace all digits with a special token
+    no_currency_symbols=True,      # replace all currency symbols with a special token
+    no_punct=True,                 # remove punctuations
+)
+
 print(corpus)
 
-# filePath = 'medium_text.txt'
-# # with open(filePath, 'r', encoding="utf-8") as file:
-# #     corpus = file.read()
-
+#Tokenization
 corpus = unidecode(corpus.lower())
 corpus = regexSubstitute(r'[^a-z\s]', '', corpus)
 corpus = regexSubstitute(r'\s+', ' ', corpus).split()
@@ -73,6 +85,7 @@ stopWords.update(['us','whose'])
 tokenCorpus = word_tokenize(str.join(" ",[x for x in corpus if x not in stopWords]))
 print("token done")
 
+#Tagging and Lemmatization
 patternTags = nltk.pos_tag(tokenCorpus)
 
 lemmatizer = WordNetLemmatizer()
@@ -84,6 +97,7 @@ for token, tag in patternTags:
     vocab.add(lemma)
 print("lemma done")
 
+#Frequency data and graph creation
 frequency = FreqDist(tokenCorpus)
 
 wordIndex = {}
@@ -128,15 +142,12 @@ for _, row in dataframe.iterrows():
     dot.node(str(row['A']), row['wordA'])
     dot.node(str(row['B']), row['wordB'])
     dot.edge(str(row['A']), str(row['B']), weight= str(w))
+
+#Export graph data
 dot.render(filename="wordgraph.gv")
-#dot.attr(attrs={"overlap": "scale", "splines": "true"})
-#dot.view()
 print("dataframe done")
 
-# Obtener las posiciones de los nodos para el gráfico
 positions = nx.spring_layout(graph)
-
-# Obtener los pesos de las aristas
 weights = nx.get_edge_attributes(graph, 'weight')
 
 print("maybe here")
