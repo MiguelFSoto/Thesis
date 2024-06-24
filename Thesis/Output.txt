@@ -1,0 +1,1374 @@
+If They Endorse It, I Can't Trust It: How Outgroup 
+Leader Endorsements Undercut Public Support for 
+Civil War Peace Settlements $ 
+Nicholas Haas New York University 
+Prabin B. Khadka New York University 
+Abstract: Civil wars are a greater source of violence than any other type of conflict, yet little is known about one of the key 
+determinants of civil war peace settlement success: civilian support We evaluate how a core component of nearly all peace 
+settlements, leader endorsements, affects public support. We predict that individuals in conflict settings will view settlements 
+endorsed by outgroup leaders as less trustworthy and that they will become less supportive. We conduct an endorsement 
+experiment with nearly 1,000 respondents in South Sudan in 2016, taking advantage of a brief cessation in a devastating 
+civil war. Public support for a tentative settlement drops precipitously when it is endorsed by an outgroup leader but does 
+not increase when it is endorsed by an ingroup leader. We find suggestive evidence that effects are strongest for individuals 
+with the greatest reason to fear outgroup leaders: those whose communities were targeted most violently by that outgroup. 
+Verification Materials: The materials required to verify the computational reproducibility of the results, procedures, 
+and analyses in this article are available on the American Journal of Political Science Dataverse within the Harvard 
+Dataverse Network, at: https://doi.org/10.7910/DVN/U6EC8N. 
+Over has nomenon the become past and a half today markedly century, far outpaces more intrastate frequent interstate conflict phe- con- has become a markedly more frequent phe- 
+nomenon and today far outpaces interstate con- 
+flict as a source of violence (Pettersson, Hogbladh, and 
+Oberg 2019). Scholars seeking to explain variation in 
+the success of negotiated peace settlements to durably 
+end civil conflicts have identified two key determinants.1 
+First, settlement content matters: The presence of provi- 
+sions that solve commitment problems for warring par- 
+ties, or the ability of one group to credibly commit to the 
+other that it will not renege on settlement terms once in 
+power (Fearon 1998), increases the likelihood of durable 
+peace. Second, settlement implementation can be a pow- 
+erful predictor of settlement success (Hartzell and Hoddie 
+2003; Joshi and Quinn 2017). Implementation of useful provisions like those that solve commitment problems 
+can have significant positive direct effects. Implementa- 
+tion can also serve as a costly signal of a commitment to 
+long-term peace by groups in power (Hartzell and Hoddie 
+2003; Joshi and Quinn 2017). 
+In this article, we investigate how leader endorse- 
+ments shape public opinion toward peace settlements 
+during ongoing conflicts. There is abundant evi- 
+dence that public opinion affects the two primary 
+drivers of settlement success - settlement content and 
+implementation - but until recently, civilian attitudes 
+have not attracted significant scholarly attention 
+(Garbiras-Diaz, Garcia-Sanchez, and Matanock 2019; 
+Matanock and Garcia-Sanchez 2017). Civilians most 
+clearly weigh in on the peace process when terms or 
+Nicholas Haas is PhD Candidate, Department of Politics, New York University, 19 West 4th Street, 2nd Floor, New York, NY 10012 
+(nsh276@nyu.edu). Prabin B. Khadka is PhD Candidate, Department of Politics, New York University, 19 West 4th Street, 2nd Floor, New 
+York, NY 10012 (pbk232@nyu.edu). 
+The authors would like to thank Roshan Thapa, Rol Düng, Wani Chaplain, and United Nations survey teams for excellent assistance in 
+data collection. We received valuable comments throughout the course of this project from Sharon Barnhardt, Oeindrila Dube, Michael 
+Gilligan, Guy Grossman, Gwyneth McClendon, Rebecca Morton, Cyrus Samii, Alexandra Scacco, Jacob Shapiro, David Stasavage, and 
+seminar participants at the Winter Experimental Social Science Institute Conference at New York University- Abu Dhabi and the Midwest 
+Political Science Association and American Political Science Association annual meetings. This research did not receive any specific grant 
+from funding agencies in the public, commercial, or not-for-profit sectors. It was approved by New York University's Institutional Review 
+Board under protocols IRB-FY20 16-389 and FY20 19-2594. 
+Estimates of the percentage of settlements that fail depend on the selection of cases; see Joshi, Quinn, and Regan (2015). 
+American Journal of Political Science, Vol. 64, No. 4, October 2020, Pp. 982-1000 
+©2020, Midwest Political Science Association DOI: 10. 1 1 1 1/ajps. 125 19 
+982
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms PUBLIC SUPPORT FOR PEACE SETTLEMENTS 983 
+the settlement itself is subject to referendum. But public 
+opinion can also shape settlement negotiations and 
+implementation when no referenda are held, or when a 
+settlement has already been approved, with important 
+implications for settlement success (Nilsson2012). Recent 
+civilian-led protests in Sudan resulted both in changes 
+in leadership and the terms of transition until planned 
+democratic elections (Associated Press 2019). Leaders of- 
+ten use unfavorable public opinion polls and the threat of 
+referenda to gain leverage in peace deal negotiations and 
+to put constraints on possible settlement content. For in- 
+stance, Israel in 2010 passed a law requiring a referendum 
+to approve any peace deal in which territory was ceded. 
+The referendum requirement was widely interpreted as 
+an effort to take land-for-peace deals off the negotiating 
+table, as most surveys showed a majority of citizens 
+opposing such terms (Kershner 2010). Peace deals that are 
+passed without widespread civilian support or involve- 
+ment, or for which support wanes following their passage, 
+risk falling short of full implementation, as constituents 
+are less likely to hold politicians accountable for reneging 
+on settlement terms they do not support or view as 
+legitimate and may even pressure them to do so (Nilsson 
+2012). Although Colombia's Congress ultimately passed 
+a peace deal in November 2016 - bypassing a second ref- 
+erendum after the first settlement proposal was narrowly 
+rejected by voters in October - its implementation has 
+lagged in core areas and significant uncertainty looms 
+(Casey 2019).2 Kew and John (2008) find that indirect 
+and direct civil society participation in peace negotia- 
+tions are associated with greater durability of negotiated 
+peace.
+We experimentally evaluate how endorsements from 
+real leaders of two parties engaged in an ethnic civil war in 
+South Sudan affect civilian support for a tentative peace 
+settlement. We specifically focus on how leader endorse- 
+ments affect public opinion of a peace settlement for three 
+key reasons. First, we study an aspect of an ongoing set- 
+tlement process with relevance to a large number of cases. 
+Endorsements by parties pursuant to the agreement ac- 
+company nearly all peace settlements: Parties typically 
+endorse the settlement not only through their signatures, 
+but also through written statements and spoken words 
+at signing ceremonies. Second, there is good reason to 
+expect that endorsements are especially impactful in low- 
+information conflict settings and concerning complicated 
+peace provisions. Research shows that uninformed citi- 
+zens often use political endorsements as a cognitive short- 
+2 Although implementation in Colombia has advanced in some areas, the Kroc Institute (2018) found that over two-thirds of stip- 
+ulations had either been minimally implemented (31%) or not initiated at all (39%). cut to decide which candidate or policy to support and, 
+thus, to act "as if' they were informed (Arceneaux and 
+Kolodny 2009; Broockman and Butler 2017; Garbiras- 
+Diaz, Garcia-Sanchez, and Matanock 2019; Lupia 1994; 
+Minozzi et al. 2015). Further, citizens are likely to have 
+strong feelings about different leaders, to whom they may 
+alternatively attribute violent actions, heroic resistance, or 
+gross incompetence. Third, endorsements of settlements 
+are of theoretical interest. Scholars have found that con- 
+flict can change individuals' priorities and emotions, but 
+we lack knowledge regarding how these changes might 
+interact with individuals' interpretations of leader en- 
+dorsements of peace settlements. 
+The extant literature indicates that effects of leader 
+endorsements of complex peace provisions should differ 
+depending on a respondent's perception of the endorser. 
+Individuals have been found to respond differently to 
+cues from sources they trust and whom they see as shar- 
+ing common interests, values, and an identity, as com- 
+pared with sources who do not have these characteristics 
+(Arceneaux and Kolodny 2009; Coan et al. 2008; Lupia 
+1994). In the context we study, where individuals were 
+targeted for violence based on ethnic markers (Center for 
+Civilians in Conflict 2016), the ethnic identity of leaders 
+is likely to condition how individuals respond to their 
+endorsements. However, although the literature points 
+us toward considering whether a leader and respondent 
+share an ethnic identity, it does not offer clear predic- 
+tions as to how endorsements should operate in conflict 
+settings. We thus draw on the literature to propose two 
+hypotheses but note that ex ante , effects from in and 
+outgroup leaders could plausibly shift support in multi- 
+ple directions. 
+A number of studies have found that endorsements 
+from ingroup political elites tend to increase support for 
+a policy, particularly over complex issues (Brader and 
+Tucker 2012; Coan et al. 2008; Garbiras-Díaz, Garcia- 
+Sanchez, and Matanock 2019; Minozzi et al. 2015). Vi- 
+olence can tighten group boundaries and lead to greater 
+ingroup cohesion and coethnic support (Hadzic, Carlson, 
+and Tavits 2020; Rohner, Thoenig, and Zilibotti 2013); if 
+individuals blame outgroup leaders for the continuation 
+of violence and believe that their ingroup leaders are rep- 
+resenting their interests the best they can under difficult 
+circumstances, then we should expect ingroup endorse- 
+ments to have a positive effect on support for peace set- 
+tlements. Our Ingroup Hypothesis draws on these stud- 
+ies to propose that individuals should be more likely to 
+support peace settlement terms endorsed by ingroup po- 
+litical elites. 
+However, there is reason to question the applicabil- 
+ity of these findings to the conflict setting we study. In 
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms 984 NICHOLAS HAAS AND PRABIN B. KHADKA 
+contexts such as South Sudan, where both sides have 
+been repeatedly blamed for relapses in violence and bro- 
+ken peace deals, ingroup leaders may not emerge com- 
+pletely unscathed in the eyes of their coethnics (De Juan 
+and Pierskalla 2016; de Vries and Schomerus 2017; Lyall, 
+Blair, and Imai 2013). If people begin to question the 
+ability of ingroup leaders to deliver peace, then a non- 
+credible but nonthreatening ingroup endorsement may 
+not convey new information about the costs and bene- 
+fits of the policy and may not lead individuals to update 
+their level of support. In other contexts that feature high 
+intergroup polarization and outgroup distrust, scholars 
+have found that outgroup endorsements conveyed more 
+information than did ingroup endorsements, which had 
+no or very little effect on policy preferences (Arceneaux 
+and Kolodny 2009; Lupia 1994; Nicholson 2012). Finally, 
+an ingroup endorsement could decrease support if in- 
+dividuals begin to question their leaders' intentions and 
+interests. 
+Expectations regarding the effects of outgroup lead- 
+ers' endorsements are similarly mixed. Scholars have 
+found that elites can be persuasive among the general pop- 
+ulation, and even with outgroup constituents (Broock- 
+man and Butler 2017; Minozzi et al. 2015). If people feel 
+that outgroup leaders will represent them and their inter- 
+ests well, then outgroup leader endorsements could lead 
+to increases in support. Where outgroup leaders are not 
+viewed as having expertise or as being threatening, their 
+endorsements may have little effect on support. A third 
+possibility that has found support in other contexts is 
+that outgroup leader endorsements will lead to decreases 
+in support (Arceneaux and Kolodny 2009; Lupia 1994; 
+Lyall, Blair, and Imai 2013; Matanock and Garbiras-Diaz 
+2018; Nicholson 2012). Outgroup endorsements may es- 
+pecially decrease support in conflict settings. First, con- 
+flict can make individuals more distrustful of outgroup 
+leaders and individuals (Beber, Roessler, and Scacco 2014; 
+Flail et al. 2018; Hetherington and Suhay 2011). Second, 
+studies have found that conflict and threat may lead indi- 
+viduals to put a greater priority on security, as opposed to 
+other considerations such as equality, democracy, or the 
+uncertain future that a peace deal promises (Berrebi and 
+Klor 2008; Huddy and Feldman 201 1; Phayal 2016). Our 
+Outgroup Hypothesis posits that individuals should be 
+less likely to support a peace deal endorsed by outgroup 
+political elites. 
+To evaluate these competing hypotheses, we con- 
+ducted an endorsement experiment with a diverse ar- 
+ray of nearly 1,000 respondents in South Sudan in early 
+2016, when there was a brief lull in civil war violence 
+between the ethnically Dinka-associated Sudan People's 
+Liberation Movement (SPLM), led by the incumbent president Salva Kiir, and the ethnically Nuer-associated 
+SPLM-In Opposition (SPLM-IO), led by ousted vice 
+president Riek Machar. Participants were randomly as- 
+signed to receive policy questions with no endorsement 
+or with an endorsement by a political actor of inter- 
+est, either SPLM/Kiir or SPLM-IO/Machar. We estimate 
+the effects of in and outgroup leader endorsements on 
+support by considering Dinka and Nuer respondents 
+(n = 491). We supplement these results with analyses 
+of two minority ethnic groups, the Shilluk (n = 59) 
+and Luo (n = 330), that had vastly different wartime 
+experiences. 
+We find support for the Outgroup Hypothesis but not 
+the Ingroup Hypothesis. For both Dinka and Nuer sub- 
+jects, support drops significantly for peace deals when 
+they are endorsed by an ethnic outgroup leader, but 
+it does not change significantly following the endorse- 
+ment of an ingroup leader. We find suggestive evidence 
+that the negative effect of an outgroup endorsement is 
+strongest for individuals whose communities were tar- 
+geted most violently by that outgroup. There is inconsis- 
+tent evidence that the outgroup effect is moderated by 
+the effect of being displaced among Nuer respondents. 
+Where a group (Shilluk respondents) has been targeted 
+by one side in the dispute, an endorsement from that 
+side's leader decreases support for the peace deal, but en- 
+dorsements from leaders who have not targeted the group 
+do not significantly alter support. Where a group (Luo 
+respondents) has faced similar levels of violence from 
+both leaders, endorsements do not significantly change 
+support. 
+Our study makes a number of contributions to the 
+extant literature. First, it advances a nascent literature 
+on public opinion toward peace deals - and the role that 
+leaders' endorsements play in swaying views (Garbiras- 
+Diaz, Garcia-Sanchez, and Matanock 2019; Matanock 
+and Garbiras-Diaz 2018; Matanock and Garcia-Sanchez 
+2017). Second, it elucidates how conflict may affect in- 
+dividuals' responses to endorsements in particular ways. 
+Third, we take a different tack from much excellent previ- 
+ous work on ethnic conflict, focusing on the determinants 
+of support for policies that may result in peace, rather than 
+on how candidate selection can contribute to or alterna- 
+tively damage prospects for peace.3 Fourth, we extend 
+research on how conflict and fear affect attitudes and 
+preferences to consider how they can shape views toward 
+peace deals. 
+3An extensive literature considers under what conditions individ- 
+uals support ethnic candidates or political parties (e.g., Chandra 2004).
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms PUBLIC SUPPORT FOR PEACE SETTLEMENTS 985 
+Theory and Hypotheses 
+How should we expect citizens to respond to leaders' 
+endorsements of peace settlements? An extensive liter- 
+ature has found that citizens often utilize political en- 
+dorsements as information shortcuts, or heuristics, to 
+make decisions about a wide range of outcomes, includ- 
+ing preferred policies and candidates (Arceneaux and 
+Kolodny 2009; Broockman and Butler 2017; Garbiras- 
+Diaz, Garcia-Sanchez, and Matanock 2019; Lupia 1994; 
+Minozzi et al. 2015). These heuristics allow citizens to 
+reduce the costs of making complex decisions that would 
+otherwise be cognitively taxing both in terms of effort (in- 
+formation collection) and capacity (processing; Chaiken, 
+Liberman, and Eagly 1989). Political endorsements from 
+trusted and familiar sources indicate that the policy or 
+candidate under consideration is good and would advance 
+the respondent's interests; endorsements from distrusted 
+sources may indicate the opposite. Through adopting in- 
+formational shortcuts, uninformed citizens may cheaply 
+emulate the behavior of more knowledgeable individuals 
+(Lupia 1994). 
+Scholars have often found that individuals respond 
+differently to endorsements from elites with a shared 
+identity. However, the literature does not provide clear 
+predictions as to how endorsements of peace settlements 
+from in and outgroup leaders should affect public sup- 
+port in conflict settings (see Table A24 in the supporting 
+information [SI]). In what follows, we review the litera- 
+tures on in and outgroup endorsement effects and derive 
+two hypotheses for how they might operate in conflict 
+settings. 
+Ingroup Endorsements 
+A number of studies have found that ingroup endorse- 
+ments can significantly increase support for policies and 
+candidates (Brader and Tucker 2012; Coan et al. 2008; 
+Garbiras-Díaz, Garcia-Sanchez, and Matanock 2019; Mi- 
+nozzi et al. 2015).4 Coan et al. (2008) conduct a lab exper- 
+iment in the United States in which they randomly assign 
+subjects to receive endorsements from either the Repub- 
+lican Party, one of two smaller parties (Green or Reform), 
+or no party, on issues ranging from abortion (least com- 
+plex or new) to class action lawsuits (most difficult and 
+unexplored). They find that individuals are significantly 
+more likely to adopt the issue positions of parties with 
+4 A number of studies do not disentangle whether movement toward 
+an ingroup elite's position was driven by an ingroup endorsement, 
+an outgroup endorsement, or both. SI Table A24. which they are familiar and trust, and where the issue 
+area is complex. Brader and Tucker (2012) conduct party 
+cue endorsement experiments with subjects from three 
+countries: Britain, Hungary, and Poland. They find that 
+ingroup endorsements increase support and that effects 
+are stronger in countries with more established party sys- 
+tems, where partisanship is a salient identity and parties 
+have established clear reputations. 
+To our knowledge, Garbiras-Díaz, Garcia-Sanchez, 
+and Matanock (2019) and Matanock and Garbiras-Díaz 
+(2018) present the only other experimental evidence on 
+peace policy endorsements, in Colombia where there was 
+an extended civil war between the government and a 
+rebel group, FARC. Whereas the former study includes 
+endorsements from two government officiais and dis- 
+tinguishes between ingroups and outgroups on the ba- 
+sis of stated affinity with each leader, the latter study 
+only includes endorsements from FARC, which due to 
+its widespread unpopularity the authors treat as an 
+"outgroup" for all respondents. Garbiras-Díaz, Garcia- 
+Sanchez, and Matanock (2019) find that an endorsement 
+from one politician (former President Uribe) significantly 
+increases support among affiliating respondents, but they 
+do not find parallel results for the other (President San- 
+tos). Research has shown that outgroup violence can lead 
+individuals to support an ingroup, but that ingroup vio- 
+lence does not result in outgroup gains; this "home team 
+discount" suggests that ingroup leaders may largely avoid 
+blame despite the continuation of violence (Lyall, Blair, 
+and Imai 2013, 696). If people blame the outgroup for 
+violence but not the ingroup, and if conflict increases eth- 
+nic identification and coethnic support (Hadzic, Carlson, 
+and Tavits 2020; Rohner, Thoenig, and Zilibotti 2013), 
+then positive ingroup endorsement effects may even be 
+greater in conflict settings. 
+Ingroup Hypothesis . Individuals should be more likely 
+to support peace settlement terms that are endorsed by 
+ingroup political elites. Endorsements from outgroup po- 
+litical elites may increase, decrease, or not have an effect 
+on support. 
+There are a number of reasons why ingroup en- 
+dorsements may not generate increases in support for 
+peace provisions in conflict settings. In nonconflict set- 
+tings characterized by intergroup polarization or higher 
+outgroup distrust than ingroup trust - two features we 
+expect to be strongly present in many conflict settings, 
+as we discuss below - scholars have found that ingroup 
+endorsements have little to no effect on support for poli- 
+cies, possibly because they convey less information than 
+outgroup endorsements (Arceneaux and Kolodny 2009; 
+Lupia 1994; Nicholson 2012). Additionally, in conflict 
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms $86 NICHOLAS HAAS AND PRABIN B. KHADKA 
+settings, blame for persistent violence may permeate in- 
+dividuals' perceptions of ingroup leaders, whose contin- 
+ued failures to deliver peace could make their subsequent 
+promises to do so seem noncredible. If ingroup endorse- 
+ments appear both noncredible and nonthreatening, then 
+they may not convey new information about costs and 
+benefits of a policy or lead individuals to update their 
+level of support. De Juan and Pierskalla (2016, 71) ar- 
+gue that the failure of a group to protect its supporters 
+"communicates low competence"; in South Sudan, there 
+is evidence that civilians do not view as credible calls for 
+peace from either side (de Vries and Schomerus 2017). 
+We believe that this theory could be consistent with at 
+least two possible interpretations of results from Garbiras- 
+Diaz, Garcia-Sanchez, and Matanock (2019). First, the 
+authors find that an ingroup endorsement in 2017 from 
+Uribe, who was last president in 2010, increased sup- 
+port, but that an ingroup endorsement from President 
+Santos, who served until 2018, did not. These asymmet- 
+ric results may be explained by individuals attributing 
+greater blame for failures to the ingroup leader currently 
+in power, Santos, but not to an ex-president, Uribe. Sec- 
+ond, as Matanock and Garbiras-Diaz (2018) show, in the 
+Colombian context, FARC was very unpopular with the 
+vast majority of citizens. Where everyone agrees that one 
+group is responsible for violence, alternative elites, in this 
+case both Santos and Uribe, may to a large degree es- 
+cape blame for violence. The findings from Matanock 
+and Garbiras-Diaz (2018) thus suggest possible bounds 
+on the theory proposed above. First, for individuals to 
+attribute blame to ingroup leaders, those leaders should 
+be seen as recently making decisions that impacted the 
+peace process. Second, there must be some uncertainty 
+over who is responsible for violence: In settings such as 
+Colombia where a guerrilla group waged an insurgent 
+campaign against the government, individuals on one 
+side (the government) may largely avoid blame.5 
+Finally, an ingroup endorsement could decrease sup- 
+port if blame for continued violence leads individuals to 
+doubt both in and outgroup leaders' intentions. If an in- 
+group leader is seen as advancing interests contrary to 
+one's own, then just as with an outgroup leader, their en- 
+dorsement of a policy may signal that it is costly. Although 
+Lyall, Blair, and Imai (2013, 692) find that people respond 
+asymmetrically to violence perpetrated by ingroups and 
+outgroups, they still find that in the aggregate, neither side 
+is popular; in a number of regions, endorsements from 
+both sides decrease support for policies, which the au- 
+5 Similarly, people may attribute an outgroup responsibility for vi- 
+olence where the group is seen as a foreign occupying force, as in 
+the context of Lyall, Blair, and Imai's (2013) study. thors attribute to a "backdrop of war weariness in which 
+neither combatant is especially favored." 
+Outgroup Endorsements 
+As with ingroup endorsements, the literature indicates 
+that outgroup endorsements in conflict settings could 
+shift support of peace provisions in multiple direc- 
+tions. Scholars have found that politicians' endorsements 
+can shift policy support in the intended direction with 
+the general population, including outgroup constituents. 
+Minozzi et al. (2015) show that copartisans and other 
+constituents find their U.S. members of Congress sim- 
+ilarly persuasive. Broockman and Butler (2017) do not 
+observe that Democratic state legislators are less persua- 
+sive with constituents who do not approve of Democratic 
+president Barack Obama. If a belief that national politi- 
+cians represent everyone's interests is sufficient to override 
+salient identity divisions, then outgroup leader endorse- 
+ments could result in increases in policy support. Out- 
+group leader endorsements could also result in little to 
+no shift in policy preferences if outgroup leaders are seen 
+as having different interests but are not viewed as partic- 
+ularly credible or threatening, or where they do not have 
+an established reputation. 
+A third possibility is that outgroup leader endorse- 
+ments in conflict settings will signal that a policy is 
+costly and will decrease support. Even in nonconflict 
+settings, endorsements from distrusted outgroup lead- 
+ers have been found to result in substantial decreases in 
+support for policies ( Arceneaux and Kolodny 2009; Lupia 
+1994; Nicholson 2012). We posit that negative outgroup 
+effects are likely to be even stronger in conflict settings 
+for two reasons. First, conflict is likely to reduce trust 
+in outgroup leaders and individuals. Individuals with 
+greater threat perception and who have been targeted 
+for violence are more intolerant, are less trusting, and 
+seek more punitive measures against outgroups (Beber, 
+Roessler, and Scacco 2014; Hall et al. 2018; Hethering- 
+ton and Suhay 2011). Blair et al. (2013) attribute lower 
+support for militant groups among the urban poor to 
+that group's greater exposure to terrorist violence and its 
+negative externalities. Lyall, Blair, and Imai (2013) sim- 
+ilarly find that victimization from an outgroup leads to 
+a drop in support for that group. These studies suggest 
+that individuals in conflict settings will be less trusting 
+of outgroup leaders and more fearful that an outgroup 
+endorsement of a policy indicates that the leader sees an 
+opportunity for further exploitation. 
+Second, individuals in conflict settings may become 
+more likely to prioritize security above other concerns. 
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms PUBLIC SUPPORT FOR PEACE SETTLEMENTS 987 
+People who perceive a greater threat have been found to 
+favor aggressive foreign policy (Hetherington and Suhay 
+201 1; Huddy and Feldman 201 1) and to be more willing 
+to exchange personal liberties for security and for leaders 
+who are punitive, conservative, or nationalist (Berrebi and 
+Klor 2008; Phayal 2016). In sum, we propose that conflict 
+may significantly reduce individuals' trust in outgroup 
+leaders and shift their priorities toward security. These 
+changes lead us to expect that individuals should be less 
+likely to support peace settlement terms that are endorsed 
+by outgroup leaders. Where individuals' central concern 
+is security, and where the central threat to that security 
+comes from heavily distrusted outgroup leaders, an out- 
+group endorsement of peace terms vulnerable to exploita- 
+tion may draw particular attention from respondents and 
+reduce their support. 
+Outgroup Hypothesis. Individuals should be less likely 
+to support a peace deal when it is endorsed by outgroup 
+political elites. Effects should be strongest for those who 
+perceive the most threat from the outgroup. Endorse- 
+ments from ingroup political elites may increase, decrease, 
+or not have an effect on support. 
+Divergent findings in Garbiras-Diaz, Garcia- 
+Sanchez, and Matanock (2019) and Matanock and 
+Garbiras-Diaz (2018) in Colombia may highlight how 
+endorsements from outgroups that have engaged in vi- 
+olence are perceived as particularly negative signals of a 
+policy's merits. When the outgroup elite is a politician one 
+holds in low esteem (but who has not violently targeted 
+supporters of the alternative elite), his endorsement does 
+not result in decreases in support for peace provisions 
+(Garbiras-Diaz, Garcia-Sanchez, and Matanock 2019). In 
+contrast, when the outgroup is a rebel group that en- 
+gaged in guerrilla warfare, their endorsement results in a 
+significant drop in support for provisions (Matanock and 
+Garbiras-Diaz 2018). 
+We posit that exposure to violence may moderate a 
+negative outgroup endorsement effect. Exposure to vi- 
+olence has been shown to increase fear and distrust of 
+and lower support for outgroups (Beber, Roessler, and 
+Scacco 2014; Blair et al. 2013; Grossman, Manekin, and 
+Miodownik 2015; Hadzic, Carlson, and Tavits 2020). 
+De Juan and Pierskalla (2016) find that those exposed 
+to greater violence have less trust in leaders who failed 
+to protect them. Berrebi and Klor (2008, 289) argue that 
+Israeli voters become more supportive of far-right polit- 
+ical parties following terror attacks because those parties 
+place "more weight on security- related issues." 
+Findings pointing to the negative effects of exposure 
+to violence notably contrast with studies showing pos- 
+itive outcomes related to exposure to violence, such as increased altruism (Voors et al. 2012) and social cohesion 
+(Gilligan, Pasquale, and Samii 2014), and with studies in- 
+dicating that the effects of exposure to violence may differ 
+depending on local context and institutions (Hall et al. 
+2018). We expect negative effects for two main reasons. 
+First, many positive social outcomes have been limited 
+to ingroups and did not spill over to outgroups (Gross- 
+man, Manekin, and Miodownik 2015; Hadzic, Carlson, 
+and Tavits 2020; Voors et al. 2012). Second, studies on the 
+effects of exposure to violence typically take place long af- 
+ter the conclusion of violence, providing time for changes 
+in context and institutions that might increase intra and 
+intergroup trust but which are not realized in our study 
+(De Juan and Pierskalla 2016; Hadzic, Carlson, and Tavits 
+2020; Hall et al. 2018). De Juan and Pierskalla (2016, 71) 
+note that "the stage of postwar recovery at which trust 
+is measured may play a pivotal role" and that negative 
+short-term effects of violence on trust might dissipate, or 
+even reverse, over time. 
+Our selection of South Sudan as a case provides a 
+number of potential advantages. Most important, our 
+study was conducted at a time when both sides had re- 
+cently agreed to a tentative settlement. We are able to 
+show subjects real endorsements of a settlement deal that 
+was highly salient and the fate of which had yet to be 
+determined. Second, we believe that this setting provides 
+a particularly strong test of the Outgroup Hypothesis. In 
+South Sudan, militia frequently identify individuals by 
+their ethnicity, using either visual markers or language 
+tests, and single them out for violence (Center for Civil- 
+ians in Conflict 20 1 6) : Especially in this context, we expect 
+individuals to be distrusting of outgroup leaders and to be 
+particularly focused on security. In addition, it is a low- 
+information environment and thus endorsements should 
+convey information: The majority of our respondents are 
+of low educational attainment and socioeconomic status, 
+and only a minority owned a cell phone (see Table 3) . Peo- 
+ple overwhelmingly want peace, and any result showing 
+that an endorsement decreases support for a peace deal is 
+meaningful, but we believe that if such a response exists, 
+we are likely to capture it in this context. The targeted 
+violence and low-information environment in South Su- 
+dan are also representative of many civil wars, giving us 
+confidence that our findings would be generalizable to 
+other conflict settings. 
+An Uncertain Peace in South Sudan 
+The South Sudanese civil war started in earnest on De- 
+cember 16, 2013, when Dinka militias loyal to President 
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms 988 NICHOLAS HAAS AND PRABIN B. KHADKA 
+Table 1 Timeline of Events 
+July 2013 President Kiir dismisses cabinet, Vice President Riek Machar. 
+December 2013 Kiir accuses Machar, 10 others of coup. Kiir-allied forces patrol Juba, killing Nuers; Machar flees 
+Juba, and ethnic civil war begins. 
+August 2015 Peace accords signed, with transitional government until elections in 2018. 
+April 2016 Machar returns with troops to Juba, and is sworn in as vice president in accordance with deal. 
+July 2016 Fighting breaks out between Dinka/Nuer- allied troops; Machar flees Juba. Civil war resumes. 
+Salva Kiir, an ethnic Dinka, started killing ethnic Nuers 
+while patrolling Juba, the nation's capital (see Table 1 
+and SI Figure Al).6 Most accounts attribute the outbreak 
+of violence to elite maneuvering for power and control 
+over a dwindling pot of resources. In July, Kiir had dis- 
+missed the majority of his cabinet, led by Vice President 
+Riek Machar, an ethnic Nuer. The cabinet members' in- 
+creasing rent demands coupled with a breakdown in ne- 
+gotiations with Sudan that had temporarily shut down 
+oil production meant that Kiir could no longer afford 
+to divert funds to his colleagues, and he accordingly re- 
+placed them with cheaper alternatives (de Waal 2014). On 
+December 15, the fragile arrangement crumbled when 
+Kiir accused Machar and 10 others of trying to unseat 
+him in a coup (Radon and Logan 2014). Machar fled 
+Juba the following day and became the de facto leader of 
+the Sudan People's Liberation Movement-In Opposition 
+(SPLM-IO). 
+Despite numerous attempts at peace brokering by the 
+international community, including one that culminated 
+in a lengthy peace agreement to which both sides for- 
+mally agreed in August 2015, fighting has continued. This 
+study exploits a brief period of de-escalation in conflict 
+between February and late summer 2016, during which 
+time Machar, in accordance with one of the terms of the 
+2015 peace accords, returned to the nation's capital for 
+the first time since the outbreak of the civil war to again 
+assume the role of vice president.7 In late July, most hope 
+for peace in the near future disappeared when Kiir again 
+dismissed Machar, who fled the capital as he had before.8 
+SI Figure Al shows how violence increased soon after 
+this period. 
+6 Ethnic Dinkas (36% of the country's population) and Nuers 
+(16%) comprise the two largest ethnic groups in South Sudan, 
+with Shilluks and Luo, who are also represented in this study, the 
+third largest at an estimated 9% together (Izady 201 1). 
+7 Many other provisions were never implemented, and there was 
+significant uncertainty if they would be. 
+8 Controlling for surveys conducted before and after Machar s re- 
+turn (only conducted with a portion of Luo respondents) does not alter results. From the start, the prevailing view was that vio- 
+lence was caused by elites and not by ethnic hostilities 
+between civilians (Radon and Logan 2014).9 Even Kiir's 
+claim of a coup on December 15 did not necessarily im- 
+ply an ethnic dimension: Only two of the 1 1 politicians 
+accused were Nuer, fewer than the six Dinka (Radon and 
+Logan 2014). However, the costs of the civil war have 
+been largely concentrated on civilians. Over 2.3 million 
+civilians - approximately one in every five people - have 
+been displaced, and an estimated 50,000-300,000 have 
+lost their lives (Kristof 2016). Of the over 2,800 violent 
+events in South Sudan compiled in the Armed Conflict 
+Location and Event Data Project (ACLED; Raleigh et al. 
+2010) from the start of the war on December 15, 2013, 
+to December 3, 2016, over 34% were coded as violence 
+against civilians (see Table 2). Even that is a heavy un- 
+derestimation of the costs faced by civilians, as it over- 
+looks more local-level and small-scale violence against 
+civilians, anticipation of violence that has led millions to 
+flee their homes, and economic and social costs (de Waal 
+2014).
+9See de Waal (2014) for more on why violence took on an ethnic di- mension. 
+Table 2 Type of Conflict Event Since Civil War 
+Outbreak (South Sudan) 
+Event Type Frequency Percent 
+Battles 1,401 48.24 
+Violence Against Civilians 99 1 34.13 
+Strategic Developments 200 6.89 
+Explosions/Remote Violence 141 4.86 
+Protests 109 3.75 
+Riots 62 2.13 
+Total 2,904 100.00 
+Source. ACLED (Raleigh et al. 2010). December 15, 2013, through December 3, 2016. 
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms PUBLIC SUPPORT FOR PEACE SETTLEMENTS 989 
+Research Design 
+Endorsement Experiment 
+To isolate the effects of leader endorsements on support 
+for the tentative peace settlement, we conducted an ex- 
+periment similar in design to party and group cueing 
+studies conducted in the United States (e.g., Nicholson 
+2012) and to work on the peace settlement in Colom- 
+bia (Garbiras-Diaz, Garcia-Sanchez, and Matanock 2019; 
+Matanock and Garbiras-Diaz 2018). Our experiment also 
+draws significantly on the endorsement designs of two 
+studies conducted in Afghanistan and Pakistan (Blair et al. 
+2013; Lyall, Blair, and Imai 2013). However, these latter 
+studies interpret changes in support due to an endorsing 
+party as solely indicating individuals' underlying support 
+for that party, independent of the policies that parties are 
+said to endorse. In our context - one characterized by a 
+high degree of violence, distrust, and low information - 
+we echo Garbiras-Diaz, Garcia-Sanchez, and Matanock 
+(2019) and Matanock and Garbiras-Diaz (2018) in our 
+expectation that endorsements of policies will change in- 
+dividuals' support for those policies not solely because 
+of the endorser's identity but also because their endorse- 
+ments of policies convey information about the costs and 
+benefits of those policies. 
+Figure 1 displays our experiment design. Participants 
+were randomly assigned to a control or one of two treat- 
+ment conditions. In each, they were asked how much 
+they agreed with six different policies taken from 2015 
+peace accords signed by Kiir and Machar.10 In treatment 
+conditions, the policies were preceded by either the en- 
+dorsement of Kiir/SPLM or Machar/SPLM-IO. Because 
+the policies are the same in every respect except for the en- 
+dorsement of the policy by a political actor in a treatment 
+group, any difference in support for settlement policies 
+between a treatment group and the control group is inter- 
+preted as representing the effect of information conveyed 
+about the policy's costs and benefits due to the political ac- 
+tor's endorsement. If support increases, then this suggests 
+that citizens learn from that endorsement that there are 
+greater benefits to the policy. If support drops, this indi- 
+cates that the leader's endorsement suggests greater costs. 
+We chose six domestic peace policy reforms: a power- 
+sharing arrangement, national bank reform, the estab- 
+lishment of a trust and reconciliation commission, a new 
+constitution, a unified military force, and the democrati- 
+zation of the SPLM political party (see SI Appendix 2.2 
+l0The first five policies come directly from the August 2015 peace 
+accords (Intergovernmental Authority Development 20 1 5) , and the sixth from an earlier 2015 accord (Tribune 2015). for a discussion of our choice of treatments and for ex- 
+periment materials). 
+Respondents rated their level of support for each pro- 
+posal on a 5-point Likert scale ranging from not at all to 
+a great deal (Blair et al. 2013). 11 These responses were 
+combined into a standardized "support index" for the 
+six peace policy reforms using inverse covariance weight- 
+ing (ICW) as outlined by Anderson (2008). 12 ICW in- 
+creases the statistical power of our tests and addresses 
+concerns about multiple comparisons (Mvukiyehe and 
+Samii 2017). The index is reported in pooled out- 
+come standard deviations (Cohen's d statistic). Follow- 
+ing Mvukiyehe and Samii (2017), for all tests we report 
+both index outcomes with nominal p-values and indi- 
+vidual endorsement question outcomes that make up the 
+index with false discovery rate (FDR) -controlled p-values 
+(Benjamíni and Hochberg 1995). In SI Appendix 6 and 
+8.3, we also show the robustness of results to, respec- 
+tively, using simple policy support averages and to factor 
+analysis. 
+Site Implementation and Execution 
+The endorsement experiment was first administered to 
+Dinka and Nuer respondents and later expanded to in- 
+clude Shilluk and Luo respondents. Surveys were con- 
+ducted by two experienced teams: the Danish Refugee 
+Council's (DRC) mine risk education (MRE) team and a 
+private survey company.13 MRE teams educate villagers 
+on the risks of unexploded ordnance and elicit informa- 
+tion from them through surveys to identify the density 
+and locations of explosive remnants of war. Teams were 
+accordingly well versed in obtaining permissions from 
+village chiefs and local authorities and earning the trust 
+of village locals. Most critically, MRE teams allowed us 
+to reach additional rural areas that would otherwise be 
+inaccessible to civilian enumerators due to the outbreak 
+of violence. Our private survey team, which had experi- 
+ence conducting surveys for the World Bank and United 
+Nations, was utilized primarily in safer urban areas and in 
+locations where MRE teams were not operating. Survey 
+team members worked in groups that included a leader 
+11 We can thus evaluate changes in support due to information 
+conveyed by endorsements. 
+12The code to calculate the index is available at https://github. com/cdsamii. 
+13 Controlling for whether surveys were collected by MRE or private 
+survey teams does not alter results. Results do not appear to be 
+driven by enumerator error and are robust to including enumerator 
+fixed effects; see SI Appendix 8.4. 
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms 990 NICHOLAS HAAS AND PRABIN B. KHADKA 
+Figure 1 Endorsement Experiment Structure 
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms PUBLIC SUPPORT FOR PEACE SETTLEMENTS ppi 
+and if necessary a translator.14 Surveys were then trans- 
+lated into English and sent to the researchers. To ensure 
+the safety of enumerators, overcome language barriers, 
+and increase the comfort of respondents, where possible 
+enumerators' ethnicities were matched to respondent eth- 
+nicity. 
+One of the principal investigators for this project had 
+previously worked as a DRC quality assurance officer and 
+had conducted in-person data collection trainings with 
+MRE and private survey team leaders. We conducted addi- 
+tional training sessions with team leaders for this project 
+remotely. Team leaders then trained and oversaw data 
+collection administered by their team members. Teams 
+followed a three-step process: first, they randomly se- 
+lected villages from those accessible in the area, as they 
+did not have the capacity to visit them all; second, they 
+divided villages into blocks to ensure that respondents 
+were evenly geographically distributed across the village; 
+third, they randomly selected an equal number of house- 
+holds within each block and verbally administered the de- 
+mographic and endorsement surveys, the latter of which 
+was randomized to be either the control or one of the 
+two treatment conditions.15 See SI Tables Al- A4 for 
+evidence that random assignment was effectively imple- 
+mented, and SI Appendix 2.3 for more information on 
+data collection. Surveys were administered in 42 villages 
+across eight counties and five of South Sudan's 10 states 
+(see Figure 2). 16 
+The dearth of reliable demographic data in South 
+Sudan makes it difficult to make inferences about the 
+representativeness of our sample (Caruso et al. 2017). In 
+Table 3, we compare our overall and state-by-state sample 
+characteristics with data from waves 1 (2015) and2 (2016) 
+of the World Bank's High Frequency Survey. 1 7 Though the 
+World Bank's survey was designed to be representative for 
+all of South Sudan, four states were excluded for security 
+reasons: Jonglei, Unity, Upper Nile, and Warrap. MRE 
+teams were active and collected data for our study in 
+three of these states (Unity, Upper Nile, and Warrap), 
+highlighting the unique value of our data. 
+We expect that our data will be skewed toward con- 
+flict. Indeed, Unity and Upper Nile, and Warrap to a lesser 
+14 Different languages included Arabic, and Dinka, Luo, and Nuer dialects. 
+15We take the village as our lowest geographical unit, as blocks did not have defined boundaries. 
+16 Fifteen Murle respondents are excluded from analysis due to their 
+small sample size. Our final sample thus includes respondents from 
+41 villages across seven counties and four states. 
+17World Bank data from both surveys are available at http://micro 
+data.worldbank.org. extent, fare much worse than Northern Bahr el Ghazal on 
+a host of demographic characteristics, including exposure 
+to violence and educational attainment. Our sample is a 
+little older, perhaps due to greater displacement or deaths 
+of younger civilians, and villages in our sample are almost 
+entirely ethnically homogenous. The negative outgroup 
+endorsement effect we identify may not generalize, at least 
+as strongly, to less conflict-prone or to postconflict areas. 
+See SI Table AIO for demographic summary statistics. 
+In the supporting information, we report robustness to 
+demographic controls (SI Appendix 8.1) and state fixed 
+effects (SI Appendix 8.2). 
+Results 
+Citizens across ethnic groups are widely supportive of 
+peace policies (see Figure 3 and SI Appendix 4.2). 
+Nuer and Dinka Respondents 
+We begin by restricting the sample to Dinka and Nuer re- 
+spondents. First, we present point estimates of the mean 
+levels of standardized indexed support for policies, with 
+95% confidence intervals across treatment conditions, 
+and split by respondent ethnicity (see Figure 4). 18 We 
+report difference in means tests using the standard two- 
+tailed t-test. We do not find evidence that an ingroup 
+endorsement shifts support for Dinka ( ¡¿DinkaEndorser ~ 
+'Lcontroi = 0.07, 95% confidence interval [-0.15, 0.30]) 
+Or Nuer {¡¿Nuer Endorser P' control == 0.14, 95% confi- 
+dence interval [-0.29, 0.01]) respondents. However, out- 
+group endorsements result in substantively and statisti- 
+cally significant decreases in support, of 1.21 standard 
+deviations for Dinka respondents (95% confidence inter- 
+val [-1.45, -0.98]) and 1.89 standard deviations for Nuer 
+respondents (95% confidence interval [-2.04, -1.75]). 
+These decreases exceed the standard "large" effect size 
+of d = 0.8 (Lakens 2014). 
+SI Appendix 7 reports Bayesian estimates and min- 
+imum detectable effect sizes (MDEs) given our sample 
+sizes. Our results indicate that the true effect of an in- 
+group endorsement for Dinka respondents is zero. Results 
+for Nuer respondents are mixed - we find some support 
+for a true effect of zero, and some support for a negative 
+effect - and thus we do not find the evidence sufficient to 
+accept or reject the null hypothesis of no true effect. In 
+sum, these results support the Outgroup Hypothesis but 
+18 See SI Figure A 7 for the same figure with simple support averages. 
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms 992 NICHOLAS HAAS AND PRABIN B. KHADKA 
+Figure 2 Data Collection 
+Source: ACLED (Raleigh et al. 2010) for left map. Certain villages, while distinct, were nevertheless too proximate to 
+distinguish on this map. 
+not the Ingroup Hypothesis. We find evidence that out- 
+group politician endorsements substantially reduce sup- 
+port for peace policies. As regards ingroup endorsements, 
+results either indicate no true effect (Dinka respondents) 
+or insufficient evidence to reject the null of no true effect 
+(Nuer respondents). 
+Table 4 provides evidence that subjects' responses 
+to leaders' endorsements are conditioned by their ethnicity.19 The fourth row (Dinka Endorser* Dinka 
+Respondent) shows that an endorsement from a Dinka 
+politician increases support among Dinka respondents, 
+compared against Nuer respondents and relative to 
+the control, 1.98 standard deviations (95% confidence 
+interval [1.63, 2.33]). In contrast, the fifth row (Nuer 
+19 See SI Appendix 5 for our regression models. 
+Table 3 Comparison of Study Sample with World Bank's High Frequency Survey 
+Endorsement Sample-2016 World Bank-2015 World Bank-2016 
+Covariates AU NBG Unity Upper Nile Warrap WBAll WBNBG WBAll WBNBG 
+Female 43.82% 40.33% 47.29% 51.83% 46.51% 51.83% 48.96% 54.18% 53.08% 
+Age (Avg.) 37.56 36.71 39.18 39.23 36.98 32.37 32.28 33.01 34.07 
+Christian 99.66 99.63 99.24 100.00 100.00 
+Experienced violence . . . 
+...since Dec 2013 80.07 70.20 100.00 100.00 65.91 
+... present day 73.21 60.37 99.24 98.18 59.09 
+Ever IDP 42.18 25.00 66.67 70.30 73.33 
+Some Education 66.86 84.04 40.91 35.15 53.33 59.93 49.28 57.31 51.37 
+Some Education (Father) 48.69 69.76 12.88 10.91 40.00 
+Poorer than Others 52.61 66.98 21.97 26.06 68.18 54.30 69.31 75.27 79.01 
+Household Size (Avg.) 8.87 7.87 10.54 10.51 10.14 8.76 10.44 9.17 8.47 
+Own Cell Phone 45.61 48.95 31.06 46.67 45.45 
+Years in Current Village 22.35 27.31 14.00 15.03 13.02 
+(Avg-) 
+Note: IDP: internally displaced person; some education (father): any formal education (obtained by father); poorer than others: respondent 
+said his or her household was poorer as compared with others in community; experienced violence: experienced "a great deal" or "a lot" of violence; WB: World Bank; NBG: Northern Bahr el Ghazal state. 
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms PUBLIC SUPPORT FOR PEACE SETTLEMENTS 993 
+Figure 3 Distribution of Answers to Endorsement Questions 
+Note : Row order corresponds to endorsement question number (1-6). 
+Endorser* Dinka Respondent) shows that an endorse- 
+ment from a Nuer politician decreases support among 
+Dinka respondents, compared against Nuer respondents 
+and relative to the control, 1.07 standard deviations (95% 
+confidence interval [-1.44, -0.68]). Substituting average 
+support for endorsement policies for the indexed support 
+measure results in an estimated increase of 1.33 points 
+(95% confidence interval [1.12, 1.53]) for the fourth row 
+and a decrease of 0.71 points (95% confidence interval 
+[-0.96, -0.45]) for the fifth row, on a 5-point scale. 
+For comparison, Garbiras-Diaz, Garcia-Sanchez, and 
+Matanock (2019) find that endorsements from favored 
+politicians increase support for peace policies by 0.43 
+and 0.88 points on a 7-point scale. Interaction effects 
+are driven by decreases in support caused by outgroup 
+endorsements (Table 5). The negative outgroup endorse- 
+ment effect is consistent across all six policiesboth for Nuer 
+and for Dinka respondents. Findings are robust to the 
+inclusion of controls (SI Table A19) and state fixed effects 
+(SI Table A21). 
+Limited variation in Dinka and Nuer respondents' 
+degrees of self-reported exposure to violence makes it dif- 
+ficult to draw strong conclusions about the moderating 
+effect of exposure to violence on outgroup leaders' en- 
+dorsements. We present results in SI Appendix 3. 1 . We do 
+not find any evidence of a moderating effect with Dinka 
+respondents, and we find inconsistent evidence of a mod- 
+erating effect using a proxy for exposure to violence that 
+contains greater variation, whether one was displaced or 
+not, with our Nuer subsample. Shilluk and Luo Respondents 
+To further investigate the moderating effect of exposure 
+to violence and to test the robustness of our findings, the 
+experiment was expanded to include two minority eth- 
+nic groups: the Shilluk and Luo. These groups can shed 
+additional light on our findings because they have been 
+exposed to violence from different combinations of eth- 
+nic outgroups over the course of the civil war. Whereas 
+the Shilluk in our sample had only recently faced extreme 
+ethnically targeted violence exclusively at the hands of 
+SPLM and Dinka-allied groups, the Luo have faced indis- 
+criminate violence from both SPLM-IO and SPLM-allied 
+forces.20 
+Our Outgroup Hypothesis predicts that Shilluk re- 
+spondents should, like Nuer respondents, respond neg- 
+atively to Dinka endorsements of peace policies because 
+exposure to violence from Dinka groups makes them trust 
+Dinka leaders less and fear their possible exploitation of 
+peace terms more. In contrast, because the Luo have faced 
+indiscriminate violence from both sides, they should not 
+fear one group more than the other. Our Outgroup Hy- 
+pothesis would accordingly expect them to react similarly 
+to Dinka and Nuer politician endorsements but does not 
+offer a clear expectation as to whether endorsements will 
+reduce or not change their support. 
+20 See SI Appendix 2.4 for descriptions of each group's experience 
+during the war. 
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms 994 NICHOLAS HAAS AND PRABIN B. KHADKA 
+Figure 4 Mean Standardized Indexed Support by Treatment and Respondent Ethnicity 
+Figure 5 displays point estimates of the mean lev- 
+els of standardized indexed support for policies with 
+95% confidence intervals.21 We find evidence in favor 
+of the Outgroup Hypothesis. A Dinka endorsement leads 
+to a substantively important and statistically significant 
+decrease in support for policies among Shilluk respon- 
+dents of 1.34 standard deviations (95% confidence in- 
+terval [-1.56, -1.11]). We do not find evidence that 
+a Nuer endorsement shifts support either for Shilluk 
+(M'Nwer Endors er l^confro/ == 0.16, 95% confidence in- 
+terval [-0.35, 0.03]) Or Luo {[L^uer Endorser P-co«řro/ =: 
+0.08, 95% confidence interval [-0.13, 0.29]) respondents, 
+nor that a Dinka endorsement shifts support for Luo re- 
+spondents {[L Dinka Endors er ^ control = 0.00, 95% Con- 
+fidence interval [-0.23, 0.22]). Bayesian estimation and 
+MDE analysis (SI Appendix 7) indicate that the true ef- 
+21 See SI Figure A7 for simple support averages, Tables A6-A8 for 
+regression results, and Tables A19 and A20 for robustness tests. feet of Nuer and Dinka politician endorsements is zero 
+for Luo respondents. Evidence on the true effect of a Nuer 
+politician endorsement on Shilluk respondents is incon- 
+clusive. 
+Discussion 
+Interpretation of Ingroup Endorsement 
+Effect 
+We do not find any evidence of a positive ingroup en- 
+dorsement effect for Nuer and Dinka respondents; to the 
+contrary, our analysis in SI Appendix 7 suggests a true in- 
+group endorsement effect of zero for Dinka respondents. 
+We interpret the lack of an ingroup endorsement effect as 
+being attributable to a decrease in the perceived compe- 
+tence or shared interests of ingroup leaders due to years 
+of prolonged conflict and failed peace deals. However, it 
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms PUBLIC SUPPORT FOR PEACE SETTLEMENTS 995 
+Table 4 Does Ethnicity Condition Responses to Endorsements? 
+(1) (2) (3) (4) (5) (6) (7) 
+Power National Truth New Armed Splm 
+Index Sharing Bank Commission Constitution Forces Democratization 
+Endorser: Dinka Pol/Party -1.91* -1.05* -1.52* -2.04* -1.74* -0.74* -0.63* 
+(0.00) (0.00) (0.00) (0.00) (0.00) (0.01) (0.01) 
+Endorser: Nuer Pol/Party -0.16 0.05 0.02 -0.34* 0.07 -0.32 0.06 
+(0.08) (0.48) (0.79) (0.04) (0.46) (0.07) (0.70) 
+Dinka Respondent Dummy -1.06 -1.14 -0.81 -1.31 -1.31 0.05 -0.52 
+(0.48) (0.48) (0.53) (0.48) (0.48) (0.80) (0.57) 
+Dinka Endorser* Dinka 1.98* 1.01* 1.52* 2.38* 1.75* 0.50* 0.80* 
+Respondent (0.00) (0.00) (0.00) (0.00) (0.00) (0.02) (0.00) 
+Nuer Endorser* Dinka -1.07* -0.94* -0.58* -0.29 -0.96* -0.67* -0.79* 
+Respondent (0.00) (0.01) (0.02) (0.19) (0.01) (0.02) (0.00) 
+Constant 1.16* 4.95* 4.26* 4.66* 4.15* 4.87* 3.74* 
+(0.00) (0.00) (0.00) (0.00) (0.00) (0.00) (0.00) 
+Observations 490 490 490 490 490 490 490 
+R-squared 0.64 0.46 0.53 0.57 0.51 0.49 0.35 
+Note. Standard errors are clustered at the village level. Wild bootstrap method (Cameron et al. 2008), with 1,000 replications, is used to 
+account for low number of clusters with (here, 26 villages). First column outcome is a standardized, inverse-covariance- weighted average 
+of the other columns' outcomes. Significance levels for non-index outcomes are based on FDR-controlled p-values. All regressions include 
+village fixed effects. 
+The p-values are in parentheses. 
+*p <.05 
+is possible that our null finding is instead attributable 
+to ceiling effects or to citizens' greater familiarity with 
+ingroup politicians' stances, which could make ingroup 
+endorsements less informative. 
+We think that these alternative explanations are un- 
+likely. First, the raw average levels of support for policies 
+in SI Figure A7 show that support has not reached a ceil- 
+ing and there is still room for it to increase. In such a 
+low-information environment, it is unlikely that respon- 
+dents were very knowledgeable about the peace policies, 
+let alone politicians' policy stances. Further, if differen- 
+tial knowledge prior to the experiment was driving re- 
+sults, we would expect that Shilluk and Luo respondents, 
+who have no coethnic politician at the national level and 
+thus should not have a high degree of knowledge about 
+either politician's stances prior to the study, should be 
+swayed either positively or negatively by both politicians' 
+endorsements, which we do not observe. 
+Interpretation of Outgroup Endorsement 
+Effect 
+In this section, we consider two alternative mechanisms 
+for our negative outgroup endorsement effect findings. 
+First, conflict could increase social polarization, leading individuals to update downward after an outgroup en- 
+dorsement not because of security or trust ( instrumental) 
+concerns but rather because of outgroup enmity. Schol- 
+ars have found that identity-based differences can drive 
+political behavior even where groups' issue-based differ- 
+ences are moderate and ingroup candidates are unpop- 
+ular (Abramowitz and Webster 2018; Iyengar and West- 
+wood 2015). Distinguishing between instrumental and 
+affect-based mechanisms has important normative im- 
+plications: If people care only about which side wins, 
+compromise is unlikely; further, the aim of using heuris- 
+tics is not to act as if one was informed, undermining its 
+central theorized benefit (Iyengar and Westwood 2015; 
+Lupia 1994). 
+Conflict is likely to increase social polarization, but 
+we do not think it is the sole driver of our results. First, we 
+would expect that Luo respondents who faced violence 
+from both sides would respond negatively to endorse- 
+ments from both Dinka and Nuer politicians. In contrast, 
+individuals appear to respond negatively to endorsements 
+only from outgroups that constitute a particular threat to 
+their personal safety (e.g., when they are only targeted by 
+that group for violence and not by the alternative group). 
+Second, given the overwhelming desire for peace, we be- 
+lieve that people will be instrumentally motivated to sup- 
+port whichever policies they believe are most likely to 
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms 996 NICHOLAS HAAS AND PRABIN B. KHADKA 
+Table 5 Considering Effects of In and OutGroup Leader Endorsements 
+(1) (2) (3) (4) (5) (6) (7) 
+Power National Truth New Armed SPLM 
+Index Sharing Bank Commission Constitution Forces Democratization 
+Panel A: Dinka Respondents 
+Endorser: Dinka Pol/Party 0.10 -0.01 0.01 0.3 7 0.03 -0.23 0.18 
+(0.53) (0.95) (0.91) (0.05) (0.92) (0.08) (0.41) 
+Endorser: Nuer Pol/Party -1.21* -0.87* -0.55* -0.61* -0.89* -0.99* -0.73* 
+(0.00) (0.01) (0.01) (0.01) (0.00) (0.00) (0.00) 
+Constant -1.57* 2.01* 2.99* 1.63* 1.97* 4.23* 1.82* 
+(0.00) (0.00) (0.00) (0.00) (0.00) (0.00) (0.00) 
+Observations 256 256 256 256 256 256 256 
+R-squared 0.46 0.35 0.23 0.33 0.29 0.40 0.23 
+Panel B: Nuer Respondents 
+Endorser: Dinka Pol/Party -1.90* -1.05* -1.52* -2.04* -1.74* -0.74* -0.63* 
+(0.00) (0.00) (0.00) (0.00) (0.00) (0.00) (0.01) 
+Endorser: Nuer Pol/Party -0.15 0.06 0.02 -0.33* 0.07 -0.32 0.06 
+(0.09) (0.38) (0.85) (0.02) (0.44) (0.09) (0.73) 
+Constant 0.88* 4.56* 4.28* 4.84* 4.61* 4.97* 2.80* 
+(0.00) (0.00) (0.00) (0.00) (0.00) (0.00) (0.00) 
+Observations 234 234 234 234 234 234 234 
+R-squared 0.83 0.59 0.70 0.76 0.74 0.28 0.49 
+Note: Standard errors are clustered at the village level. Wild bootstrap method (Cameron et al. 2008), with 1,000 replications, is used to 
+account for low number of clusters. First column outcome is a standardized, inverse- covariance- weighted average of the other columns' 
+outcomes. Significance levels for non-index outcomes are based on FDR- controlled p-values. All regressions include village fixed effects. 
+The p- values are in parentheses. 
+*p<.05 
+deliver peace. Third, while most studies on social polar- 
+ization emphasize the role of outgroup enmity, they still 
+anticipate and observe a positive ingroup effect and high 
+ingroup loyalty, which we do not observe (Abramowitz 
+and Webster 2018; Iyengar and Westwood 2015). Fourth, 
+a factor analysis (SI Appendix 6) shows that the six en- 
+dorsement questions load on two factors. Importantly, 
+the two questions for which security concerns are likely 
+to be most pressing, one on power-sharing and the sec- 
+ond on joint control of security forces, most clearly load 
+on one factor, whereas the remaining four endorsement 
+questions most clearly define the other. Analysis is robust 
+to using either factor as the dependent variable. 
+A second alternative explanation of our results is that 
+people respond negatively to endorsements from out- 
+group leaders not due to security concerns, but because 
+they fear that outgroup leaders will exclude them from 
+government patronage. A factor analysis indicates that 
+the endorsement question most likely to pick up on fear 
+of capture of material benefits, on revisions to the national 
+bank, does not load on a different factor than the others. 
+We also added a question to the survey with Luo respon- dents to measure perceived ethnic bias in the distribution 
+of public goods. We do observe that a Nuer endorsement 
+increases support among Luo respondents who believe 
+that leaders are ethnically biased by 0.44 standard devia- 
+tions (95% confidence interval [0.26, 0.62] ).22 This effect 
+appears to be driven primarily by an increase in support 
+for the banking endorsement question. Results reported 
+in this article are robust to excluding this question. 
+Although we argue that security concerns play a key 
+role in how individuals interpret endorsements, outgroup 
+animus and material concerns may also explain some 
+component of our observed effect. 
+Focus Group Discussions with Dinka and 
+Nuer Political Elites 
+To better evaluate our understanding of the peace pro- 
+cess in South Sudan, in November-December 2018 we 
+conducted focus group discussions with Dinka (n = 7) 
+22 See SI Table A9. 
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms PUBLIC SUPPORT FOR PEACE SETTLEMENTS 997 
+Figure 5 Mean Indexed Support Levels by Treatment and Respondent Ethnicity 
+and Nuer (n = 10) political elites (see SI Figure A4 for 
+questions). 
+Our claims largely found support. Leaders and citi- 
+zens appeared fearful of outgroup exploitation. A Nuer 
+officer argued that past deals had broken down because 
+"SPLM always wanted to dominate non-Dinkas and rule 
+the government with Dinkas only." Nuer civilians were 
+said to be "scared to trust the [SPLM] government in fill- 
+filling the peace deal." Leaders insisted that their fears of 
+the other side were not due to hate, but rather to a deep 
+distrust.23 One Dinka village chief said, "We don't hate the 
+opposition but they have to be more loyal and . . . fulfill 
+their commitments as regards this peace deal." Both 
+groups listed guaranteeing security among their top three 
+priorities for achieving peace. 
+23 Potentially consistent with this account are the high import civil- 
+ians in the World Bank's High Frequency Survey attach to facilitat- 
+ing healing between communities, ranking such efforts only behind 
+an end to fighting as the best way to bring peace to South Sudan. Leaders described a low-information environment. 
+They said that they only learned about peace deal provi- 
+sions during briefings from leadership, a source of infor- 
+mation unavailable to civilians. A SPLM-IO deputy com- 
+mander observed that "some of the things [in the peace 
+deal] are not understandable to [the people]." There was 
+also evidence that some followers had grown weary of in- 
+group leaders' promises, and a Dinka village chief noted, 
+"This peace process is significant because South Sudanese 
+citizens are tired with prolonged years of war." 
+Focus group discussions, and accounts detailing how 
+leaders on both sides in South Sudan were able to rely on 
+critical support from coethnic communities even as they 
+escalated violence and violated the peace deal, indicate 
+that lower civilian support for peace deals might have 
+consequential effects where civilians apply less pressure 
+on ingroup elites and on communities to comply with 
+settlement terms. A Nuer governor, the highest state-level 
+public office, insisted that there was accountability: "If 
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms 998 NICHOLAS HAAS AND PRABIN B. KHADKA 
+civilians withdraw their support, then Kiir and Machar 
+both will be out." Leaders stressed that civilians had "an 
+equal role" in making the peace deal successful. A SPLM- 
+IO military commander recalled instances where "people 
+forced us to oblige with implementation of the agreements 
+on time [and] improvement of security." A Dinka village 
+chief stated that the key role of civilians was to "spread 
+the positive message" of the peace deal by not engaging 
+in intercommunal violence or cattle raiding, which could 
+imperil on-the-ground settlement implementation. 
+Conclusion 
+We present results from a large-scale survey experiment 
+conducted during a brief pause in civil war violence in 
+South Sudan in 2016. We find that support for a tenta- 
+tive peace deal drops precipitously when policies are en- 
+dorsed by outgroup leaders, and suggestive evidence that 
+negative effects are greatest for those whose communities 
+were targeted most violently by that outgroup. Ingroup 
+politician endorsements do not significantly alter indi- 
+viduals' support for the peace settlement. We conclude 
+that a policy from a distrusted outgroup leader conveys 
+information - namely, that the leader sees a way to ex- 
+ploit the policy - and makes individuals valuing security 
+above all else less likely to support that policy. 
+How can public support for peace settlements signed 
+by leaders from warring groups be increased? Our study 
+indicates that providing policy information may not be 
+sufficient to overcome citizens' fears of outgroup leaders. 
+Efforts to increase intergroup trust, to build and commu- 
+nicate safeguards against outgroup exploitation, and to 
+increase inclusion of civilians and, given recent evidence, 
+in particular women in the peace process, may be more 
+fruitful strategies for increasing public support. 
+References 
+Abramowitz, Alan I., and Steven Wē Webster. 2018. "Negative 
+Partisanship: Why Americans Dislike Parties but Behave Like 
+Rabid Partisans." Political Psychology 39(S1): 119-35. 
+Anderson, Michael L. 2008. "Multiple Inference and Gender 
+Differences in the Effects of Early Intervention: A Réévalu- 
+ation of the Abecedarian, Perry Preschool, and Early Train- 
+ing Projects." Journal of the American Statistical Association 103(484): 1481-95. 
+Arceneaux, Kevin, and Robin Kolodny. 2009. "Educating the 
+Least Informed: Group Endorsements in a Grassroots Cam- 
+paign." American Journal of Political Science 53(4): 755-70. Associated Press. 2019. "Sudan Power-Sharing Deal Final- 
+ized, African Union Envoy Says." The New York Times. 
+https://www.nytimes.com. 
+Beber, Bernd, Philip Roessler, and Alexandra Scacco. 2014. "In- 
+tergroup Violence and Political Attitudes: Evidence from a 
+Dividing Sudan." Journal ofPolirìcs 76(3): 649-65. 
+Benjamíni, Yoav, and Yosef Hochberg. 1995. "Controlling the 
+False Discovery Rate: A Practical and Powerful Approach 
+to Multiple Testing." Journal of the Royal Statistical Society ; 
+Series B (Methodological): 57(1): 289-300. 
+Berrebi, Claude, and Esteban F. Klor. 2008. "Are Voters Sensitive to Terrorism? Direct Evidence from the Israeli Electorate." 
+American Political Science Review 102(3): 279-301. 
+Blair, Graeme, C. Christine Fair, Neil Malhotra and Jacob N. 
+Shapiro. 2013. "Poverty and Support for Militant Politics: 
+Evidence from Pakistan." American Journal of Political Sci- 
+ence 57(1): 30-48. 
+Brader, Ted, and Joshua A. Tucker. 2012. "Following the Party's 
+Lead: Party Cues, Policy Opinion, and the Power of Parti- 
+sanship in Three Multiparty Systems." Comparative Politics 
+44(4): 403-20. 
+Broockman, David E., and Daniel M. Butler. 2017. "The Causal 
+Effects of Elite Position -Taking on Voter Attitudes: Field 
+Experiments with Elite Communication." American Journal 
+of Political Science 61(1): 208-2 1 . 
+Cameron, A. Colin, Jonah B. Gelbach, and Douglas L. Miller. 
+2008. "Bootstrap-Based Improvements for Inference with 
+Clustered Errors." The Review of Economics and Statistics 
+90(3): 414-427. 
+Caruso, Raul, Prabin Khadka, Ilaria Petrarca, and Roberto Ric- 
+ciuti. 2017. "The Economic Impact of Peacekeeping. Ev- 
+idence from South Sudan." Defence and Peace Economics 
+28(2): 250-70. 
+Casey, Nicholas. 2019. "Colombia's Peace Deal Promised a New 
+Era. So Why Are These Rebels Rearming?" New York Times. 
+https://www.nytimes.com. 
+Center for Civilians in Conflict. 2016. "Those Who Could Not 
+Run, Died: Civilian Perspectives on the Conflict in South 
+Sudan.", https://civiliansinconflict.org. 
+Chaiken, S., Avika Liberman, and Alice H. Eagly. 1989. "Heuris- 
+tic and Systematic Information Processing within and be- 
+yond the Persuasion Context." In Unintended Thought , ed. 
+James S. Uleman and John A. Bargh. New York: Guilford Press, 212-252. 
+Chandra, Kanchan. 2004. Why Ethnic Parties Succeed : Patronage 
+and Ethnic Head Counts in India. Cambridge: Cambridge 
+University Press. 
+Coan, Travis G., Jennifer L. Merolla, Laura B. Stephenson, and 
+Elizabeth J. Zechmeister. 2008. "It's Not Easy Being Green: 
+Minor Party Labels as Heuristic Aids." Political Psychology 29(3): 389-405. 
+De Juan, Alexander, and Jan Henryk Pierskalla. 2016. "Civil War Violence and Political Trust: Microlevel Evidence from 
+Nepal." Conflict Management and Peace Science 33(1): 67-88. 
+de Vries, Lotje, and Mareike Schomerus. 2017. "South Sudan's Civil War Will Not End with a Peace Deal." Peace Review 
+29(3): 333-40. 
+de Waal, Alex. 2014. "When Kleptocracy Becomes Insolvent: 
+Brute Causes of the Civil War in South Sudan." African 
+Affairs 113(452): 347-69. 
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms PUBLIC SUPPORT FOR PEACE SETTLEMENTS 999 
+Fearon, James D. 1998. "Commitment Problems and the Spread 
+of Ethnic Conflict". In The International Spread of Ethnic 
+Conflict: Fear ; Diffusion and Escalation , ed. David A. Lake 
+and Donald Rothschild. Princeton, NJ: Princeton University Press, 107-126. 
+Garbiras-Diaz, Natalia, Miguel A. Garcia- Sanchez, and Aila M. 
+Matanock. 2019. "Using Political Cues for Attitude Forma- tion in Post-Conflict Contexts." Available at SSRN 3483939. 
+Gilligan, Michael J., Benjamin J. Pasquale, and Cyrus Samii. 2014. "Civil War and Social Cohesion: Lab-in-the-Field Ev- 
+idence from Nepal." American Journal of Political Science 
+58(3): 604-19. 
+Grossman, Guy, Devorah Manekin, and Dan Miodownik. 2015. 
+"The Political Legacies of Combat: Attitudes toward War and 
+Peace among Israeli Ex-Combatants." International Organi- 
+zation 69(4): 981-1009. 
+Fladzic, Dino, David Carlson, and Margit Tavits. 2020. "How 
+Exposure to Violence Affects Ethnic Voting." British Journal 
+of Political Science 50(1): 345-62. 
+Hall, Jonathan, Iosif Kovras, Djordje Stefanovic, and Neophy- 
+tos Loizides. 2018. "Exposure to Violence and Attitudes to- 
+wards Transitional Justice." Political Psychology 39(2): 345- 63.
+Hartzell, Caroline, and Matthew Hoddie. 2003. "Institution- 
+alizing Peace: Power Sharing and Post- Civil War Conflict 
+Management." American Journal of Political Science 47(2): 318-32. 
+Hetherington, Marc, and Elizabeth Suhay. 2011. "Authoritar- 
+ianism, Threat, and Americans? Support for the War on 
+Terror." American Journal of Political Science 55(3): 546-60. 
+Huddy, Leonie, and Stanley Feldman. 2011. "Americans Re- 
+spond Politically to 9/11: Understanding the Impact of the 
+Terrorist Attacks and their Aftermath." American Psycholo- 
+gist 66(6): 455-67. 
+Intergovernmental Authority Development. 2015. "Agreement 
+on the Resolution of the Conflict in the Republic of South 
+Sudan." https://unmiss.unmissions.org. 
+Iyengar, Shanto, and Sean J. Westwood. 2015. "Fear and 
+Loathing across Party Lines: New Evidence on Group Po- 
+larization." American Journal of Political Science 59(3): 690- 707.
+Izady, Michael. 201 1. "Maps and Statistics Collections." http:// 
+gulf2000.columbia.edu/maps.shtml. 
+Joshi, Madhav, and Jason Michael Quinn. 2017. 'Implementing 
+the Peace: The Aggregate Implementation of Comprehen- 
+sive Peace Agreements and Peace Duration after Intrastate 
+Armed Conflict." British Journal of Political Science 47(4): 869-92. 
+Joshi, Madhav, Jason Michael Quinn, and Patrick M. Regan. 
+2015. "Annualized Implementation Data on Comprehen- 
+sive Intrastate Peace Accords, 1989-2012." Journal of Peace 
+Research 52(4): 551-62. 
+Kershner, Isabel. 2010. "Israel Enacts Bill to Force Referendum 
+on a Treaty." New York Times, http://www.nytimes.com. 
+Kew, Darren, and Anthony Wanis-St. John. 2008. "Civil Society 
+and Peace Negotiations: Confronting Exclusion." Interna- 
+tional Negotiation 13(1): 11-36. 
+Kristof, Nicholas. 2016. "Are as Many Civilians Dying in 
+South Sudan as in Syria?" New York Times. https://kristof. 
+blogs.nytimes.com. Kroc Institute, Barometer Initiative Peace Accords Matrix. 2018. 
+"State of Implementation of the Colombia Peace Agreement: 
+Report Two." https://kroc.nd.edu. 
+Lakens, Daniel. 2014. "Performing High-Powered Studies Effi- 
+ciently with Sequential Analyses." European Journal of Social 
+Psychology 44(7): 701-10. 
+Lupia, Arthur. 1994. "Shortcuts versus Encyclopedias: Infor- 
+mation and Voting Behavior in California Insurance Re- 
+form Elections." American Political Science Review 88( 1 ): 63- 76.
+Lyall, Jason, Graeme Blair, and Kosuke Imai. 2013. "Explaining 
+Support for Combatants during Wartime: A Survey Exper- 
+iment in Afghanistan." American Political Science Review 
+107(4): 679-705. 
+Matanock, Aila M., and Miguel Garcia- Sanchez. 2017. "The Colombian Paradox: Peace Processes, Elite Divisions and 
+Popular Plebiscites." Daedalus 146(4): 152-66. 
+Matanock, Aila M., and Natalia Garbiras-Diaz. 2018. "Con- 
+sidering Concessions: A Survey Experiment on the Colom- 
+bian Peace Process." Conflict Management and Peace Science 35(6): 637-55. 
+Minozzi, William, Michael A. Neblo, Kevin M. Esterling, and 
+David M. J. Lazer. 2015. "Field Experiment Evidence of Sub- 
+stantive, Attributional, and Behavioral Persuasion by Mem- 
+bers of Congress in Online Town Halls." Proceedings of the 
+National Academy of Sciences 112(13): 3937-42. 
+Mvukiyehe, Eric, and Cyrus Samii. 2017. "Promoting Democ- 
+racy in Fragile States: Field Experimental Evidence from 
+Liberia." World Development 95: 254-67. 
+Nicholson, Stephen P. 2012. "Polarizing Cues." American Jour- 
+nal of Political Science 56(1): 52-66. 
+Nilsson, Desiree. 2012. "Anchoring the Peace: Civil Society Ac- tors in Peace Accords and Durable Peace." International In- 
+teractions 38(2): 243-66. 
+Pettersson, Therese, Stina Hogbladh, and Magnus Oberg. 2019. 
+"Organized Violence, 1989-2018 and Peace Agreements." 
+Journal of Peace Research 56(4): 589-603. 
+Phayal, Anup. 2016. "Mass Fears, Strong Leaders and the Risk 
+of Renewed Conflict: three Essays on Postconflict Elections." 
+University of Kentucky Theses and Dissertations-Political Sci- ence.
+Radon, Jenik, and Sarah Logan. 2014. "South Sudan: Gover- 
+nance Arrangements, War, and Peace." Journal of Interna- 
+tional Affairs 68(1): 149-67. 
+Raleigh, Clionadh, Andrew Linke, Havard Hegre, and Joakim 
+Karlsen. 2010. "Introducing ACLED: An Armed Conflict 
+Location and Event Dataset: Special Data Feature." Journal 
+of Peace Research 47(5): 651-60. 
+Rohner, Dominic, Mathias Thoenig, and Fabrizio Zilibotti. 
+2013. "Seeds of Distrust: Conflict in Uganda." Journal of Economic Growth 18(3): 217-52. 
+Tribune, Sudan. 2015. "South Sudan's Rival SPLM Fac- tions Vow to Work for Reforms." Sudan Tribune. 
+http://www.sudantribune.com. 
+Voors, Maarten J., Eleonora E. M. Nillesen, Philip Verwimp, Erwin H. Bulte, Robert Lensink, and Daan P. Van Soest. 
+2012. "Violent Conflict and Behavior: A Field Experiment 
+in Burundi." The American Economic Review 102(2): 941- 64.
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms 1000 NICHOLAS HAAS AND PRABIN B. KHADKA 
+Supporting Information 
+Additional supporting information may be found online 
+in the Supporting Information section at the end of the 
+article. 
+Appendix 1: Balance 
+Appendix 2: Background 
+Appendix 3: Additional Results: Moderating Effect of Vi- 
+olence, Shilluk and Luo Appendix 4: Summary Statistics 
+Appendix 5: Empirical Analysis 
+Appendix 6: Factor Analysis 
+Appendix 7: Interpretation of Statistical (Non-) Signifi- 
+cance
+Appendix 8: Robustness Tests 
+Appendix 9: Extant Literature 
+This content downloaded from 131.196.210.253 on Fri, 15 Mar 2024 16:56:21 +00:00 
+All use subject to https://about.jstor.org/terms 

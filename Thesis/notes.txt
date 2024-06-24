@@ -1,0 +1,4 @@
+inline citations
+use references in the concepts
+add description/reasoning for the concepts
+variable formatting

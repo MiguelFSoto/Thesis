@@ -1,0 +1,640 @@
+COVID-19 infection: Emergence, transmission, and characteristics of
+human coronaviruses
+Muhammad Adnan Shereenb,1, Suliman Khana,1,⇑, Abeer Kazmic, Nadia Bashirb, Rabeea Siddiquea
+aThe Department of Cerebrovascular Diseases, The Second Afﬁliated Hospital of Zhengzhou University, Zhengzhou, PR China
+bState Key Laboratory of Virology, College of Life Sciences, Wuhan University, Wuhan, PR China
+cCollege of Life Sciences, Wuhan University, Wuhan, PR China
+graphical abstract
+article info
+Article history:
+Received 15 March 2020Accepted 15 March 2020Available online 16 March 2020
+Keywords:
+CoronavirusesCOVID-19TransmissionOutbreakSpreadabstract
+The coronavirus disease 19 (COVID-19) is a highly transmittable and pathogenic viral infection caused by
+severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which caused global pandemic that ledto a dramatic loss of human life worldwide. Genomic analysis revealed that SARS-CoV-2 is phylogenet-
+ically related to severe acute respiratory syndrome-like (SARS-like) bat viruses, therefore bats could be
+the possible primary reservoir. The intermediate source of origin and transfer to humans is not known,however, the rapid human to human transfer has been conﬁrmed widely. There is no clinically approvedantiviral drug or vaccine available to be used against COVID-19. However, few broad-spectrum antiviral
+drugs have been evaluated against COVID-19 in clinical trials, resulted in clinical recovery. In the current
+review, we summarize and comparatively analyze the emergence and pathogenicity of COVID-19 infec-tion and previous human coronaviruses including severe ascute respiratory syndrome coronavirus (SARS-
+CoV) and middle east respiratory syndrome coronavirus (MERS-CoV). We also discuss the approaches for
+developing effective vaccines and therapeutic combinations to cope with this viral outbreak./C2112020 The Authors. Published by Elsevier B.V. on behalf of Cairo University. This is an open access article
+under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ).
+Introduction
+Coronaviruses belong to the Coronaviridae family in the Nidovi-
+rales order. Corona represents crown-like spikes on the outer sur-
+face of the virus; thus, it was named as a coronavirus.
+https://doi.org/10.1016/j.jare.2020.03.005
+2090-1232/ /C2112020 The Authors. Published by Elsevier B.V. on behalf of Cairo University.
+This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ).Peer review under responsibility of Cairo University.
+⇑Corresponding author.
+E-mail address: suliman.khan18@mails.ucas.ac.cn (S. Khan).
+1Contributed equally (M.A.S and S.K).Journal of Advanced Research 24 (2020) 91–98
+Contents lists available at ScienceDirect
+Journal of Advanced Research
+journal homepag e: www.elsevier.c om/locate/jare
+Coronaviruses are minute in size (65–125 nm in diameter) and
+contain a single-stranded RNA as a nucleic material, size ranging
+from 26 to 32kbs in length ( Fig. 1 ). The subgroups of coronaviruses
+family are alpha ( a), beta ( b), gamma ( c) and delta ( d) coronavirus.
+The severe acute respiratory syndrome coronavirus (SARS-CoV),
+H5N1 inﬂuenza A, H1N1 2009 and Middle East respiratory syn-
+drome coronavirus (MERS-CoV) cause acute lung injury (ALI) and
+acute respiratory distress syndrome (ARDS) which leads to pul-
+monary failure and result in fatality. These viruses were thought
+to infect only animals until the world witnessed a severe acute res-
+piratory syndrome (SARS) outbreak caused by SARS-CoV, 2002 in
+Guangdong, China [1]. Only a decade later, another pathogenic
+coronavirus, known as Middle East respiratory syndrome coron-
+avirus (MERS-CoV) caused an endemic in Middle Eastern countries
+[2].
+Recently at the end of 2019, Wuhan an emerging business hub
+of China experienced an outbreak of a novel coronavirus that killed
+more than eighteen hundred and infected over seventy thousand
+individuals within the ﬁrst ﬁfty days of the epidemic. This virus
+was reported to be a member of the bgroup of coronaviruses.
+The novel virus was named as 2019 novel coronavirus (2019-
+nCov) by the Chinese researchers. The International Committee
+on Taxonomy of Viruses (ICTV) named the virus as SARS-CoV-2
+and the disease as COVID-19 [3–5] . In the history, SRAS-CoV
+(2003) infected 8098 individuals with mortality rate of 9%, across
+26 contries in the world, on the other hand, novel corona virus
+(2019) infected 120,000 induviduals with mortality rate of 2.9%,
+across 109 countries, till date of this writing. It shows that the
+transmission rate of SARS-CoV-2 is higher than SRAS-CoV and the
+reason could be genetic recombination event at S protein in the
+RBD region of SARS-CoV-2 may have enhanced its transmission
+ability. In this review article, we discuss the transmission of human
+coronaviruses brieﬂy. We further discuss the associated infectious-
+ness and biological features of SARS and MERS with a special focus
+on COVID-19.
+Comparative analysis of emergence and spreading of
+coronaviruses
+In 2003, the Chinese population was infected with a virus caus-
+ing Severe Acute Respiratory Syndrome (SARS) in Guangdong pro-
+vince. The virus was conﬁrmed as a member of the Beta-
+coronavirus subgroup and was named SARS-CoV [6,7] . The infected
+patients exhibited pneumonia symptoms with a diffused alveolar
+injury which lead to acute respiratory distress syndrome (ARDS).SARS initially emerged in Guangdong, China and then spread
+rapidly around the globe with more than 8000 infected personsand 776 deceases. A decade later in 2012, a couple of Saudi Arabian
+nationals were diagnosed to be infected with another coronavirus.
+The detected virus was conﬁrmed as a member of coronaviruses
+and named as the Middle East Respiratory Syndrome Coronavirus
+(MERS-CoV). The World health organization reported that MERS-
+coronavirus infected more than 2428 individuals and 838 deaths
+[8]. MERS-CoV is a member beta-coronavirus subgroup and phylo-
+genetically diverse from other human-CoV. The infection of MERS-
+CoV initiates from a mild upper respiratory injury while progres-
+sion leads to severe respiratory disease. Similar to SARS-
+coronavirus, patients infected with MERS-coronavirus suffer pneu-
+monia, followed by ARDS and renal failure [9].
+Recently, by the end of 2019, WHO was informed by the Chi-
+nese government about several cases of pneumonia with unfamil-
+iar etiology. Although scientists suspected that Hunan seafoodmarket in Wuhan helped the virus spread, however, it was not
+where the outbreak ﬁrst emerged [10]. On 12 January 2020, the
+National Health Commission of China released further details
+about the epidemic, suggested viral pneumonia [10]. From the
+sequence-based analysis of isolates from the patients, the virus
+was identiﬁed as a novel coronavirus. Moreover, the genetic
+sequence was also provided for the diagnosis of viral infection. Ini-
+tially, it was suggested that the patients infected with Wuhan coro-
+navirus induced pneumonia in China may have visited the seafood
+market where live animals were sold or may have used infected
+animals or birds as a source of food. However, further investiga-
+tions revealed that some individuals contracted the infection even
+with no record of visiting the seafood market. These observations
+indicated a human to the human spreading capability of this virus,
+which was subsequently reported in more than 100 countries in
+the world. The human to the human spreading of the virus occurs
+due to close contact with an infected person, exposed to coughing,
+sneezing, respiratory droplets or aerosols. These aerosols can pen-
+etrate the human body (lungs) via inhalation through the nose or
+mouth ( Fig. 2 )[11–14] .
+Primary reservoirs and hosts of coronaviruses
+The source of origination and transmission are important to be
+determined in order to develop preventive strategies to contain the
+infection. In the case of SARS-CoV, the researchers initially focused
+on raccoon dogs and palm civets as a key reservoir of infection.However, only the samples isolated from the civets at the food
+market showed positive results for viral RNA detection, suggesting
+that the civet palm might be secondary hosts [15]. In 2001 the
+samples were isolated from the healthy persons of Hongkong and
+the molecular assessment showed 2.5% frequency rate of anti-bodies against SARS-coronavirus. These indications suggested that
+SARS-coronavirus may be circulating in humans before causing the
+outbreak in 2003 [16]. Later on, Rhinolophus bats were also found
+to have anti-SARS-CoV antibodies suggesting the bats as a source of
+viral replication [17]. The Middle East respiratory syndrome
+(MERS) coronavirus ﬁrst emerged in 2012 in Saudi Arabia [9].
+MERS-coronavirus also pertains to beta-coronavirus and having
+camels as a zoonotic source or primary host [18]. In a recent study,
+MERS-coronavirus was also detected in Pipistrellus and Perimyotis
+bats [19], proffering that bats are the key host and transmitting
+medium of the virus [20,21] . Initially, a group of researchers sug-
+gested snakes be the possible host, however, after genomic similar-
+ity ﬁndings of novel coronavirus with SARS-like bat viruses
+supported the statement that not snakes but only bats could be
+the key reservoirs ( Table 1 )[22,23] . Further analysis of homolo-
+gous recombination revealed that receptor binding spike glycopro-
+tein of novel coronavirus is developed from a SARS-CoV (CoVZXC21
+or CoVZC45) and a yet unknown Beta-CoV [24]. Nonetheless, to
+Fig. 1. Structure of respiratory syndrome causing human coronavirus.92 M.A. Shereen et al. / Journal of Advanced Research 24 (2020) 91–98eradicate the virus, more work is required to be done in the aspects
+of the identiﬁcation of the intermediate zoonotic source that
+caused the transmission of the virus to humans.
+Key features and entry mechanism of human coronaviruses
+All coronaviruses contain speciﬁc genes in ORF1 downstream
+regions that encode proteins for viral replication, nucleocapsid
+and spikes formation [25]. The glycoprotein spikes on the outer
+surface of coronaviruses are responsible for the attachment and
+entry of the virus to host cells ( Fig. 1 ). The receptor-binding
+domain (RBD) is loosely attached among virus, therefore, the virus
+may infect multiple hosts [26,27] . Other coronaviruses mostly rec-
+ognize aminopeptidases or carbohydrates as a key receptor for
+entry to human cells while SARS-CoV and MERS-CoV recognize
+exopeptidases [2]. The entry mechanism of a coronavirus depends
+upon cellular proteases which include, human airway trypsin-like
+protease (HAT), cathepsins and transmembrane protease serine 2
+(TMPRSS2) that split the spike protein and establish further pene-
+tration changes [28,29] . MERS-coronavirus employs dipeptidyl
+peptidase 4 (DPP4), while HCoV-NL63 and SARS-coronavirus
+require angiotensin-converting enzyme 2 (ACE2) as a key receptor
+[2,26] .
+SARS-CoV-2 possesses the typical coronavirus structure with
+spike protein and also expressed other polyproteins, nucleopro-teins, and membrane proteins, such as RNA polymerase, 3-
+chymotrypsin-like protease, papain-like protease, helicase, glyco-
+protein, and accessory proteins [30,31] . The spike protein of
+SARS-CoV-2 contains a 3-D structure in the RBD region to maintain
+the van der Waals forces [32]. The 394 glutamine residue in the
+RBD region of SARS-CoV-2 is recognized by the critical lysine 31
+residue on the human ACE2 receptor [33]. The entire mechanism
+of pathogenicity of SARS-CoV-2, from attachment to replication is
+well mentioned in Fig. 3 .
+Genomic variations in SARS-CoV-2
+The genome of the SARS-CoV-2 has been reported over 80%
+identical to the previous human coronavirus (SARS-like bat CoV)
+[34]. The Structural proteins are encoded by the four structural
+genes, including spike (S), envelope (E), membrane (M) and nucle-
+ocapsid (N) genes. The orf1ab is the largest gene in SARS-CoV-2
+which encodes the pp1ab protein and 15 nsps. The orf1a gene
+encodes for pp1a protein which also contains 10 nsps [34–36] .
+According to the evolutionary tree, SARS-CoV-2 lies close to the
+group of SARS-coronaviruses [37,38] (Fig. 5 ). Recent studies have
+indicated notable variations in SARS-CoV and SARS-CoV-2 such
+as the absence of 8a protein and ﬂuctuation in the number of
+amino acids in 8b and 3c protein in SARS-CoV-2 [34] (Fig. 4 ). It is
+also reported that Spike glycoprotein of the Wuhan coronavirus
+Fig. 2. The key reservoirs and mode of transmission of coronaviruses (suspected reservoirs of SARS-CoV-2 are red encircled); only aand bcoronaviruses have the ability to
+infect humans, the consumption of infected animal as a source of food is the major cause of animal to human transmission of the virus and due to close cont act with an
+infected person, the virus is further transmitted to healthy persons. Dotted black arrow shows the possibility of viral transfer from bat whereas the solid black arrow
+represent the conﬁrmed transfer.
+Table 1
+Comparative analysis of biological features of SARS-CoV and SARS-CoV-2.
+Features SARS-CoV SARS-CoV-2 Reference
+Emergence date November 2002 December 2019 [37,79–81]
+Area of emergence Guangdong, China Wuhan, China
+Date of fully controlled July 2003 Not controlled yet
+Key hosts Bat, palm civets and Raccon dogs Bat [22,82,83]
+Number of countries infected 26 109 [84]
+Entry receptor in humans ACE2 receptor ACE2 receptor [22,55,85]
+Sign and symptoms fever, malaise, myalgia, headache, diarrhoea, shivering,
+cough and shortness of breathCough, fever and shortness of breath [12,23,85]
+Disease caused SARS, ARDS SARS, COVID-19 [85,86]
+Total infected patients 8098 123882 [84]
+Total recovered patients 7322 67051Total died patients 776 (9.6% mortality rate) 4473 (3.61% mortality rate)M.A. Shereen et al. / Journal of Advanced Research 24 (2020) 91–98 93is modiﬁed via homologous recombination. The spike glycoprotein
+of SARS-CoV-2 is the mixture of bat SARS-CoV and a not known
+Beta-CoV [38]. In a ﬂuorescent study, it was conﬁrmed that the
+SARS-CoV-2 also uses the same ACE2 (angiotensin-converting
+enzyme 2) cell receptor and mechanism for the entry to host cell
+which is previously used by the SARS-CoV [39,40] . The single
+N501T mutation in SARS-CoV-2’s Spike protein may have signiﬁ-
+cantly enhanced its binding afﬁnity for ACE2 [33].
+The major obstacle in research progress
+Animal models play a vital role to uncover the mechanisms of
+viral pathogenicity from the entrance to the transmission and
+designing therapeutic strategies. Previously, to examine the repli-
+cation of SARS-CoV, various animal models were used which
+showed the symptoms of severe infection [43]. In contrast to
+SARS-CoV, no MERS-CoV pathogenesis was observed in small ani-
+mals. Mice are not vulnerable to infection by MERS-coronavirus
+due to the non-compatibility of the DPP4 receptor [44]. As the
+entire genome of the 2019-novel coronavirus is more than 80%
+similar to the previous human SARS-like bat CoV, previously used
+animal models for SARS-CoV can be utilized to study the infectious
+pathogenicity of SARS-CoV-2. The human ACE2 cell receptor is rec-
+ognized by both SARS and Novel coronaviruses. Conclusively,
+TALEN or CRISPR-mediated genetically modiﬁed hamsters or other
+small animals can be utilized for the study of the pathogenicity of
+novel coronaviruses. SARS-CoV has been reported to replicate and
+cause severe disease in Rats (F344), where the sequence analysis
+revealed a mutation at spike glycoprotein [45]. Thus, it could beanother suitable option to develop spike glycoprotein targeting
+therapeutics against novel coronaviruses. Recently, mice models
+and clinical isolates were used to develop any therapeutic strategy
+against SARS-CoV-2 induced COVID-19 [46,47] . In a similar study,
+artiﬁcial intelligence prediction was used to investigate the inhibi-
+tory role of the drug against SARS-CoV-2 [48]. SARS-CoV-2 infected
+patients were also used to conduct randomized clinical trials
+[46,49,50] . It is now important that the scientists worldwide col-
+laborate the design a suitable model and investigate the in vivo
+mechanisms associated with pathogenesis of SARS-CoV-2.
+Potential therapeutic strategies against COVID-19
+Initially, interferons- anebulization, broad-spectrum antibi-
+otics, and anti-viral drugs were used to reduce the viral load
+[49,51,52] , however, only remdesivir has shown promising impact
+against the virus [53]. Remdesivir only and in combination with
+chloroquine or interferon beta signiﬁcantly blocked the SARS-
+CoV-2 replication and patients were declared as clinically recov-
+ered [46,50,52] . Various other anti-virals are currently being eval-
+uated against infection. Nafamostat, Nitazoxanide, Ribavirin,
+Penciclovir, Favipiravir, Ritonavir, AAK1, Baricitinib, and Arbidol
+exhibited moderate results when tested against infection in
+patients and in-vitro clinical isolates [46,48,50,52] . Several other
+combinations, such as combining the antiviral or antibiotics with
+traditional Chinese medicines were also evaluated against SARS-
+CoV-2 induced infection in humans and mice [46]. Recently in
+Shanghai, doctors isolated the blood plasma from clinically recov-
+ered patients of COVID-19 and injected it in the infected patients
+Fig. 3. The life cycle of SARS-CoV-2 in host cells; begins its life cycle when S protein binds to the cellular receptor ACE2. After receptor binding, the confor mation change in
+the S protein facilitates viral envelope fusion with the cell membrane through the endosomal pathway. Then SARS-CoV-2 releases RNA into the host cell . Genome RNA is
+translated into viral replicase polyproteins pp1a and 1ab, which are then cleaved into small products by viral proteinases. The polymerase produces a series of subgenomic
+mRNAs by discontinuous transcription and ﬁnally translated into relevant viral proteins. Viral proteins and genome RNA are subsequently assembled into virions in the ER
+and Golgi and then transported via vesicles and released out of the cell. ACE2, angiotensin-converting enzyme 2; ER, endoplasmic reticulum; ERGIC, E R–Golgi intermediate
+compartment.94 M.A. Shereen et al. / Journal of Advanced Research 24 (2020) 91–98who showed positive results with rapid recovery [54]. In a recent
+study, it was identiﬁed that monoclonal antibody (CR3022) binds -
+with the spike RBD of SARS-CoV-2. This is likely due to the anti-
+body’s epitope not overlapping with the divergent ACE2receptor-binding motif. CR3022 has the potential to be developed
+as a therapeutic candidate, alone or in combination with other
+neutralizing antibodies for the prevention and treatment of -
+COVID-19 infection [55].
+Fig. 4. Betacoronaviruses genome organization; The Betacoronavirus for human (SARS-CoV-2, SARS-CoV and MERS-CoV) genome comprises of the 50-untranslated region (50-
+UTR), open reading frame (orf) 1a/b (green box) encoding non-structural proteins (nsp) for replication, structural proteins including spike (blue box), envelop (maroon box),
+membrane (pink box), and nucleocapsid (cyan box) proteins, accessory proteins (light gray boxes) such as orf 3, 6, 7a, 7b, 8 and 9b in the SARS-CoV-2 gen ome, and the 30-
+untranslated region (30-UTR). The doted underlined in red are the protein which shows key variation between SARS-CoV-2 and SARS-CoV. The length of nsps and orfs are not
+drawn in scale.
+Fig. 5. Phylogenetic tree of coronaviruses (content in red is the latest addition of newly emerged SARS-CoV-2 and WSFMP Wuhan-Hu-1 is used as a reference in th e tree); The
+phylogenetic tree showing the relationship of Wuhan-Hu-1 (denoted as red) to selected coronavirus is based on nucleotide sequences of the complete g enome. The viruses
+are grouped into four genera (prototype shown): Alphacoronavirus (sky blue), Betacoronavirus (pink), Gammacoronavirus (green) and Deltacoronav irus (light blue).
+Subgroup clusters are labeled as 1a and 1b for the Alphacoronavirus and 2a, 2b, 2c, and 2d for the Betacoronavirus. This tree is based on the published tr ees of Coronavirinae
+[3,41] and reconstructed with sequences of the complete RNA- dependent RNA polymerase- coding region of the representative novel coronaviruses (maximum l ikelihood
+method using MEGA 7.2 software). severe acute respiratory syndrome coronavirus (SARS- CoV); SARS- related coronavirus (SARSr- CoV); the Middle Eas t respiratory
+syndrome coronavirus (MERS- CoV); porcine enteric diarrhea virus (PEDV); Wuhan seafood market pneumonia (Wuhan-Hu-1). Bat CoV RaTG13 Showed high s equence
+identity to SARS-CoV-2 [42].M.A. Shereen et al. / Journal of Advanced Research 24 (2020) 91–98 95Vaccines for SARS-CoV-2
+There is no available vaccine against COVID-19, while previous
+vaccines or strategies used to develop a vaccine against SARS-CoV
+can be effective. Recombinant protein from the Urbani (AY278741)
+strain of SARS-CoV was administered to mice and hamsters,
+resulted in the production of neutralizing antibodies and protec-
+tion against SARS-CoV [56,57] . The DNA fragment, inactivated
+whole virus or live-vectored strain of SARS-CoV (AY278741), sig-
+niﬁcantly reduced the viral infection in various animal models
+[58–63] . Different other strains of SARS-CoV were also used to pro-
+duce inactivated or live-vectored vaccines which efﬁciently
+reduced the viral load in animal models. These strains include,
+Tor2 (AY274119) [64,65] , Utah (AY714217) [66], FRA (AY310120)
+[59], HKU-39849 (AY278491) [57,67] , BJ01 (AY278488) [68,69] ,
+NS1 (AY508724) [70], ZJ01 (AY297028) [70], GD01 (AY278489)
+[69] and GZ50 (AY304495) [71]. However, there are few vaccines
+in the pipeline against SARS-CoV-2. The mRNA based vaccine pre-
+pared by the US National Institute of Allergy and Infectious Dis-
+eases against SARS-CoV-2 is under phase 1 trial [72]. INO-4800-
+DNA based vaccine will be soon available for human testing [73].
+Chinese Centre for Disease Control and Prevention (CDC) working
+on the development of an inactivated virus vaccine [74,75] . Soon
+mRNA based vaccine’s sample (prepared by Stermirna Therapeu-
+tics) will be available [76]. GeoVax-BravoVax is working to develop
+a Modiﬁed Vaccina Ankara (MVA) based vaccine [77]. While Clover
+Biopharmaceuticals is developing a recombinant 2019-nCoV S pro-
+tein subunit-trimer based vaccine [78].
+Although research teams all over the world are working to
+investigate the key features, pathogenesis and treatment options,
+it is deemed necessary to focus on competitive therapeutic options
+and cross-resistance of other vaccines. For instance, there is a pos-
+sibility that vaccines for other diseases such as rubella or measles
+can create cross-resistance for SARS-CoV-2. This statement of
+cross-resistance is based on the observations that children in china
+were found less vulnerable to infection as compared to the elder
+population, while children are being largely vaccinated for measles
+in China.
+Conclusion and perspective
+Scientists are still investigating the emergence and origination
+of SARS-CoV-2. Moreover, its zoonotic source of transmission to
+humans has not been conﬁrmed yet, however, sequence-based
+analysis suggested bats as the key reservoir. DNA recombination
+was found to be involved at spike glycoprotein which assorted
+SARS-CoV (CoVZXC21 or CoVZC45) with the RBD of another BetaCoV, thus could be the reason for cross-species transmission and
+rapid infection. According to phylogenetic trees, SARS-CoV is closer
+to SARS-like bat CoVs. Until now, no promising clinical treatments
+or prevention strategies have been developed against human coro-
+naviruses. However, the researchers are working to develop efﬁ-
+cient therapeutic strategies to cope with the novel coronaviruses.
+Various broad-spectrum antivirals previously used against inﬂuen-
+za, SARS and MERS coronaviruses have been evaluated either alone
+or in combinations to treat COVID-19 patients, mice models, and
+clinical isolates. Remdesivir, Lopinavir, Ritonavir, and Oseltamivir
+signiﬁcantly blocked the COVID-19 infection in infected patients.
+It can be cocluded that the homologus recombination event at the
+S protein of RBD region enhanced the transmission ability of the
+virus. While the decision of bring back the nationals from infected
+area by various countries and poor screening of passengers, become
+the leading cause of spreading virus in others countries.
+Most importantly, human coronaviruses targeting vaccines and
+antiviral drugs should be designed that could be used against thecurrent as well as future epidemics. There are many companies
+working for the development of effective SARS-CoV-2 vaccines,
+such as Moderna Therapeutics, Inovio Pharmaceuticals, Novavax,
+Vir Biotechnology, Stermirna Therapeutics, Johnson & Johnson,
+VIDO-InterVac, GeoVax-BravoVax, Clover Biopharmaceuticals, Cur-
+eVac, and Codagenix. But there is a need for rapid human and
+animal-based trails as these vaccines still require 3–10 months
+for commercialization. There must be a complete ban on utilizing
+wild animals and birds as a source of food. Beside the development
+of most efﬁcient drug, a strategy to rapidly diagnose SARS-CoV-2 insuspected patient is also required. The signs and symptoms of
+SARS-CoV-2 induced COVID-19 are a bit similar to inﬂuenza and
+seasonal allergies (pollen allergies). Person suffering from inﬂu-
+enza or seasonal allergy may also exhibit temprature which can
+be detected by thermo-scanners, hence the person will becomesuspected. Therefore, an accurate and rapid diagnostic kit or meter
+for detection of SARS-CoV-2 in suspected patients is required, as
+the PCR based testing is expensive and time consuming. It is appre-
+ciable that the Chinese health workers have efﬁciently controlled
+the outbreak in china and limited the mortality rate to less than
+3% only. The therapeutic strategies used by Chinese healthcare
+authorities, should also be followed by other countries.
+Acknowledgments
+The authors acknowledge the Postdoctoral grant from The Second
+Afﬁliated Hospital of Zhengzhou University (for S.K).
+Author contribution
+Suliman Khan: Conceptualization, investigation, data curation,
+writing- original draft preparation, reviewing and editing, and
+supervision. Muhammad Adnan Shereen: Writing-original draft
+Abber Kazmi, Nadia Bashir and Rabeea Siddique: writing- original
+draft.
+Declaration of Competing Interest
+The authors of this manuscript declare no conﬂict of interest.
+References
+[1]Zhong N, Zheng B, Li Y, Poon L, Xie Z, Chan K, et al. Epidemiology and cause of
+severe acute respiratory syndrome (SARS) in Guangdong, People’s Republic of
+China, in February, 2003. The Lancet 2003;362(9393):1353–8 .
+[2]Wang N, Shi X, Jiang L, Zhang S, Wang D, Tong P, et al. Structure of MERS-CoV
+spike receptor-binding domain complexed with human receptor DPP4. Cell Res
+2013;23(8):986 .
+[3]Cui J, Li F, Shi Z-L. Origin and evolution of pathogenic coronaviruses. Nat Rev
+Microbiol 2019;17(3):181–92 .
+[4]Lai C-C, Shih T-P, Ko W-C, Tang H-J, Hsueh P-R. Severe acute respiratory
+syndrome coronavirus 2 (SARS-CoV-2) and corona virus disease-2019 (COVID-
+19): the epidemic and the challenges. Int J Antimicrob Agents 2020;105924 .
+[5] Organization WH. Laboratory testing for coronavirus disease 2019 (COVID-19)
+in suspected human cases: interim guidance, 2 March 2020. World Health
+Organization, 2020.
+[6]Peiris J, Guan Y, Yuen K. Severe acute respiratory syndrome. Nat Med 2004;10(12):S88–97
+.
+[7]Pyrc K, Berkhout B, Van Der Hoek L. Identiﬁcation of new human
+coronaviruses. Expert Review of Anti-infective Therapy 2007;5(2):245–53 .
+[8]Rahman A, Sarkar A. Risk factors for fatal middle east respiratory syndrome
+coronavirus infections in Saudi Arabia: analysis of the WHO Line List, 2013–2018. Am J Public Health 2019;109(9):1288–93
+.
+[9]Memish ZA, Zumla AI, Al-Hakeem RF, Al-Rabeeah AA, Stephens GM. Family
+cluster of Middle East respiratory syndrome coronavirus infections. N Engl J
+Med 2013;368(26):2487–94 .
+[10] Wang C, Horby PW, Hayden FG, Gao GF. A novel coronavirus outbreak of global
+health concern. The Lancet 2020 .
+[11] Phan LT, Nguyen TV, Luong QC, Nguyen TV, Nguyen HT, Le HQ, et al.Importation and human-to-human transmission of a novel coronavirus in
+Vietnam. N Engl J Med 2020
+.96 M.A. Shereen et al. / Journal of Advanced Research 24 (2020) 91–98[12] Riou J, Althaus CL. Pattern of early human-to-human transmission of Wuhan
+2019 novel coronavirus (2019-nCoV), December 2019 to January 2020.
+Eurosurveillance. 2020;25(4).
+[13] Parry J. China coronavirus: cases surge as ofﬁcial admits human to human
+transmission. British Medical Journal Publishing Group; 2020.
+[14] Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, et al. Early transmission dynamics
+in Wuhan, China, of novel coronavirus–infected pneumonia. N Engl J Med
+2020 .
+[15] Kan B, Wang M, Jing H, Xu H, Jiang X, Yan M, et al. Molecular evolution analysis
+and geographic investigation of severe acute respiratory syndrome
+coronavirus-like virus in palm civets at an animal market and on farms. JVirol 2005;79(18):11892–900
+.
+[16] Zheng BJ, Guan Y, Wong KH, Zhou J, Wong KL, Young BWY, et al. SARS-related
+virus predating SARS outbreak, Hong Kong. Emerg Infect Dis 2004;10(2):176 .
+[17] Shi Z, Hu Z. A review of studies on animal reservoirs of the SARS coronavirus.
+Virus Res 2008;133(1):74–87 .
+[18] Paden C, Yusof M, Al Hammadi Z, Queen K, Tao Y, Eltahir Y, et al. Zoonotic
+origin and transmission of Middle East respiratory syndrome coronavirus inthe UAE. Zoonoses Public Health 2018;65(3):322–33
+.
+[19] Annan A, Baldwin HJ, Corman VM, Klose SM, Owusu M, Nkrumah EE, et al.
+Human betacoronavirus 2c EMC/2012–related viruses in bats, Ghana and
+Europe. Emerg Infect Dis 2013;19(3):456 .
+[20] Huynh J, Li S, Yount B, Smith A, Sturges L, Olsen JC, et al. Evidence supporting azoonotic origin of human coronavirus strain NL63. J Virol 2012;86
+(23):12816–25
+.
+[21] Lau SK, Li KS, Tsang AK, Lam CS, Ahmed S, Chen H, et al. Genetic
+characterization of Betacoronavirus lineage C viruses in bats reveals marked
+sequence divergence in the spike protein of pipistrellus bat coronavirus HKU5in Japanese pipistrelle: implications for the origin of the novel Middle East
+respiratory syndrome coronavirus. J Virol 2013;87(15):8638–50
+.
+[22] Lu R, Zhao X, Li J, Niu P, Yang B, Wu H, et al. Genomic characterisation and
+epidemiology of 2019 novel coronavirus: implications for virus origins and
+receptor binding. The Lancet 2020 .
+[23] Chan JF-W, Yuan S, Kok K-H, To KK-W, Chu H, Yang J, et al. A familial cluster of
+pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020
+.
+[24] Chan JF-W, Kok K-H, Zhu Z, Chu H, To KK-W, Yuan S, et al. Genomic
+characterization of the 2019 novel human-pathogenic coronavirus isolated
+from a patient with atypical pneumonia after visiting. Wuhan. Emerging
+Microbes & Infections 2020;9(1):221–36 .
+[25] van Boheemen S, de Graaf M, Lauber C, Bestebroer TM, Raj VS, Zaki AM, et al.
+Genomic characterization of a newly discovered coronavirus associated with
+acute respiratory distress syndrome in humans. MBio 2012;3(6):
+e00473–e512 .
+[26] Raj VS, Mou H, Smits SL, Dekkers DH, Müller MA, Dijkman R, et al. Dipeptidyl
+peptidase 4 is a functional receptor for the emerging human coronavirus-EMC.
+Nature 2013;495(7440):251–4 .
+[27] Perlman S, Netland J. Coronaviruses post-SARS: update on replication and
+pathogenesis. Nat Rev Microbiol 2009;7(6):439–50 .
+[28] Glowacka I, Bertram S, Müller MA, Allen P, Soilleux E, Pfefferle S, et al. Evidence
+that TMPRSS2 activates the severe acute respiratory syndrome coronavirus
+spike protein for membrane fusion and reduces viral control by the humoralimmune response. J Virol 2011;85(9):4122–34
+.
+[29] Bertram S, Glowacka I, Müller MA, Lavender H, Gnirss K, Nehlmeier I, et al.
+Cleavage and activation of the severe acute respiratory syndrome coronavirus
+spike protein by human airway trypsin-like protease. J Virol 2011;85
+(24):13363–72 .
+[30] Wu F, Zhao S, Yu B, Chen Y-M, Wang W, Song Z-G, et al. A new coronavirus
+associated with human respiratory disease in China. Nature 2020;1–5 .
+[31] Zhou P, Yang X, Wang X, Hu B, Zhang L, Zhang W, et al. A pneumonia outbreak
+associated with a new coronavirus of probable bat origin. Nature [Internet].
+2020;Feb:3 .
+[32] Xu X, Chen P, Wang J, Feng J, Zhou H, Li X, et al. Evolution of the novel
+coronavirus from the ongoing Wuhan outbreak and modeling of its spikeprotein for risk of human transmission. Science China Life Sciences 2020;63
+(3):457–60
+.
+[33] Wan Y, Shang J, Graham R, Baric RS, Li F. Receptor recognition by novel
+coronavirus from Wuhan: an analysis based on decade-long structural studies
+of SARS. J Virol 2020 .
+[34] Wu A, Peng Y, Huang B, Ding X, Wang X, Niu P, et al. Genome composition and
+divergence of the novel coronavirus (2019-nCoV) originating in China. CellHost Microbe 2020
+.
+[35] Lu R, Zhao X, Li J, Niu P, Yang B, Wu H, et al. Genomic characterisation and
+epidemiology of 2019 novel coronavirus: implications for virus origins and
+receptor binding. Lancet 2020;395(10224):565–74 .
+[36] Chen Y, Liu Q, Guo D. Emerging coronaviruses: genome structure, replication,and pathogenesis. J Med Virol 2020
+.
+[37] Hui DS, I Azhar E, Madani TA, Ntoumi F, Kock R, Dar O, et al. The continuing
+2019-nCoV epidemic threat of novel coronaviruses to global health—The latest
+2019 novel coronavirus outbreak in Wuhan, China. International Journal of
+Infectious Diseases. 2020;91:264–6.
+[38] Li B, Si H-R, Zhu Y, Yang X-L, Anderson DE, Shi Z-L, et al. Discovery of Bat
+Coronaviruses through Surveillance and Probe Capture-Based Next-
+Generation Sequencing. mSphere. 2020;5(1).[39] Gralinski LE, Menachery VD. Return of the coronavirus: 2019-nCoV. Viruses
+2020;12(2):135 .
+[40] Xu X, Chen P, Wang J, Feng J, Zhou H, Li X, et al. Evolution of the novel
+coronavirus from the ongoing Wuhan outbreak and modeling of its spike
+protein for risk of human transmission. Sci China Life Sci 2020;1–4 .
+[41] Corman VM, Ithete NL, Richards LR, Schoeman MC, Preiser W, Drosten C, et al.Rooting the phylogenetic tree of middle East respiratory syndrome
+coronavirus by characterization of a conspeciﬁc virus from an African bat. J
+Virol 2014;88(19):11297–303
+.
+[42] Zhou P, Yang X-L, Wang X-G, Hu B, Zhang L, Zhang W, et al. Discovery of a
+novel coronavirus associated with the recent pneumonia outbreak in humansand its potential bat origin. bioRxiv; 2020.
+[43]
+Gretebeck LM, Subbarao K. Animal models for SARS and MERS coronaviruses.
+Cur Opin Virol 2015;13:123–9 .
+[44] Cockrell AS, Peck KM, Yount BL, Agnihothram SS, Scobey T, Curnes NR, et al.
+Mouse dipeptidyl peptidase 4 is not a functional receptor for Middle East
+respiratory syndrome coronavirus infection. J Virol 2014;88(9):5195–9 .
+[45] Nagata N, Iwata N, Hasegawa H, Fukushi S, Yokoyama M, Harashima A, et al.Participation of both host and virus factors in induction of severe acute
+respiratory syndrome (SARS) in F344 rats infected with SARS coronavirus. J
+Virol 2007;81(4):1848–57
+.
+[46] Sheahan TP, Sims AC, Leist SR, Schäfer A, Won J, Brown AJ, et al. Comparative
+therapeutic efﬁcacy of remdesivir and combination lopinavir, ritonavir, andinterferon beta against MERS-CoV. Nat Commun 2020;11(1):1–14
+.
+[47] Wang Z, Chen X, Lu Y, Chen F, Zhang W. Clinical characteristics and therapeutic
+procedure for four cases with 2019 novel coronavirus pneumonia receiving
+combined Chinese and Western medicine treatment. BioScience Trends 2020 .
+[48] Richardson P, Grifﬁn I, Tucker C, Smith D, Oechsle O, Phelan A, et al. Baricitinibas potential treatment for 2019-nCoV acute respiratory disease. The Lancet
+2020
+.
+[49] Ng CS, Kasumba DM, Fujita T, Luo H. Spatio-temporal characterization of the
+antiviral activity of the XRN1-DCP1/2 aggregation against cytoplasmic RNA
+viruses to prevent cell death. Cell Death Differ 2020:1–20 .
+[50] Holshue ML, DeBolt C, Lindquist S, Lofy KH, Wiesman J, Bruce H, et al. First case
+of 2019 novel coronavirus in the United States. N Engl J Med 2020 .
+[51] Wang BX, Fish EN. editors. Global virus outbreaks: Interferons as 1st
+responders. Seminars in immunology. Elsevier; 2019 .
+[52] Wang M, Cao R, Zhang L, Yang X, Liu J, Xu M, et al. Remdesivir and chloroquine
+effectively inhibit the recently emerged novel coronavirus (2019-nCoV)
+in vitro. Cell Res 2020;1–3 .
+[53] Agostini ML, Andres EL, Sims AC, Graham RL, Sheahan TP, Lu X, et al.
+Coronavirus susceptibility to the antiviral remdesivir (GS-5734) is mediated
+by the viral polymerase and the proofreading exoribonuclease. MBio 2018;9
+(2):e00221–e318 .
+[54] Derebail VK, Falk RJ. ANCA-associated vasculitis—reﬁning therapy with plasma
+exchange and glucocorticoids. Mass Medical Soc 2020 .
+[55] Tian X, Li C, Huang A, Xia S, Lu S, Shi Z, et al. Potent binding of 2019 novel
+coronavirus spike protein by a SARS coronavirus-speciﬁc human monoclonal
+antibody. bioRxiv; 2020.
+[56] Bisht H, Roberts A, Vogel L, Subbarao K, Moss B. Neutralizing antibody and
+protective immunity to SARS coronavirus infection of mice induced by a
+soluble recombinant polypeptide containing an N-terminal segment of thespike glycoprotein. Virology 2005;334(2):160–5
+.
+[57] Kam YW, Kien F, Roberts A, Cheung YC, Lamirande EW, Vogel L, et al.
+Antibodies against trimeric S glycoprotein protect hamsters against SARS-CoV
+challenge despite their capacity to mediate Fc cRII-dependent entry into B cells
+in vitro. Vaccine 2007;25(4):729–40 .
+[58] Yang Z-y, Kong W-p, Huang Y, Roberts A, Murphy BR, Subbarao K, et al. A DNA
+vaccine induces SARS coronavirus neutralization and protective immunity inmice. Nature 2004;428(6982):561–4
+.
+[59] Stadler K, Roberts A, Becker S, Vogel L, Eickmann M, Kolesnikova L, et al. SARS
+vaccine protective in mice. Emerg Infect Dis 2005;11(8):1312 .
+[60] Kapadia SU, Rose JK, Lamirande E, Vogel L, Subbarao K, Roberts A. Long-term
+protection from SARS coronavirus infection conferred by a singleimmunization with an attenuated VSV-based vaccine. Virology 2005;340
+(2):174–82
+.
+[61] Bisht H, Roberts A, Vogel L, Bukreyev A, Collins PL, Murphy BR, et al. Severe
+acute respiratory syndrome coronavirus spike protein expressed by
+attenuated vaccinia virus protectively immunizes mice. Proc Natl Acad Sci
+2004;101(17):6641–6 .
+[62] Buchholz UJ, Bukreyev A, Yang L, Lamirande EW, Murphy BR, Subbarao K, et al.Contributions of the structural proteins of severe acute respiratory syndrome
+coronavirus to protective immunity. Proc Natl Acad Sci 2004;101(26):9804–9
+.
+[63] Bukreyev A, Lamirande EW, Buchholz UJ, Vogel LN, Elkins WR, St Claire M,
+et al. Mucosal immunisation of African green monkeys (Cercopithecus
+aethiops) with an attenuated parainﬂuenza virus expressing the SARScoronavirus spike protein for the prevention of SARS. Lancet 2004;363
+(9427):2122–7
+.
+[64] See RH, Zakhartchouk AN, Petric M, Lawrence DJ, Mok CP, Hogan RJ, et al.
+Comparative evaluation of two severe acute respiratory syndrome (SARS)
+vaccine candidates in mice challenged with SARS coronavirus. J Gen Virol2006;87(3):641–50
+.
+[65] Weingartl H, Czub M, Czub S, Neufeld J, Marszal P, Gren J, et al. Immunization
+with modiﬁed vaccinia virus Ankara-based recombinant vaccine againstM.A. Shereen et al. / Journal of Advanced Research 24 (2020) 91–98 97severe acute respiratory syndrome is associated with enhanced hepatitis in
+ferrets. J Virol 2004;78(22):12672–6 .
+[66] Spruth M, Kistner O, Savidis-Dacho H, Hitter E, Crowe B, Gerencer M, et al. A
+double-inactivated whole virus candidate SARS coronavirus vaccine stimulates
+neutralising and protective antibody responses. Vaccine. 2006;24(5):652–61 .
+[67] Takasuka N, Fujii H, Takahashi Y, Kasai M, Morikawa S, Itamura S, et al. Asubcutaneously injected UV-inactivated SARS coronavirus vaccine elicits
+systemic humoral immunity in mice. Int Immunol 2004;16(10):1423–30
+.
+[68] Tang L, Zhu Q, Qin E, Yu M, Ding Z, Shi H, et al. Inactivated SARS-CoV vaccine
+prepared from whole virus induces a high level of neutralizing antibodies in
+BALB/c mice. DNA Cell Biol 2004;23(6):391–4 .
+[69] Qin E, Shi H, Tang L, Wang C, Chang G, Ding Z, et al. Immunogenicity and
+protective efﬁcacy in monkeys of puriﬁed inactivated Vero-cell SARS vaccine.
+Vaccine 2006;24(7):1028–34 .
+[70] Zhou J, Wang W, Zhong Q, Hou W, Yang Z, Xiao S-Y, et al. Immunogenicity,
+safety, and protective efﬁcacy of an inactivated SARS-associated coronavirus
+vaccine in rhesus monkeys. Vaccine 2005;23(24):3202–9 .
+[71] Qu D, Zheng B, Yao X, Guan Y, Yuan Z-H, Zhong N-S, et al. Intranasalimmunization with inactivated SARS-CoV (SARS-associated coronavirus)
+induced local and serum antibodies in mice. Vaccine 2005;23(7):924–31
+.
+[72] McKay BLP. Drugmakers rush to develop vaccines against china virus the wall
+street journal. [cited 2020 28 January]; Available from: < https://www.
+wsj.com/articles/drugmakers-rush-to-develop-vaccines-against-china-virus-11579813026> .
+[73] Inovio IP. Inovio selected by cepi to develop vaccine against new coronavirus
+inovio. [cited 2020 29 January]; Available from: < http://ir.inovio.com/news-
+and-media/news/press-release-details/2020/Inovio-Selectedby-CEPI-to-
+Develop-Vaccine-Against-NewCoronavirus/default.aspx >.
+[74] J.-H.Z.W. Lee LZ. Chinese scientists race to develop vaccine as coronavirus
+death toll jumps: South china morning post. [cited 2020 29 January]; Available
+from: < https://www.scmp.com/news/china/society/article/3047676/
+numbercoronavirus-cases-china-doubles-spread-rate-accelerates >.
+[75] Cheung E. China coronavirus: Hong kong researchers have already developed
+vaccine but need time to test it, expert reveals: South china morning post.
+[cited 2020 29 January]; Available from: https://www.scmp.com/news/
+hongkong/health-environment/article/3047956/china-coronavirus-hong-
+kong-researchers-have .
+[76] Xinhua. China fast-tracks novel coronavirus vaccine development xinhua.
+[cited 202 29 January]; Available from: http://www.xinhuanet.com/english/
+2020-01/28/c_138739378.htm .
+[77] Geo-Vax. Geovax and bravovax (wuhan, china) to collaborate on development
+of coronavirus vaccine. [cited 2020 3 March]; Available from: https://
+www.geovax.com/news/geovax-and-bravovax-wuhan-china-to-collaborate-
+ondevelopment-of-coronavirus-vaccine .
+[78] Clover B. Clover initiates development of recombinant subunit- trimer vaccine
+for wuhan coronavirus (2019-ncov). [cited 2020 6 March]; Available from:http://www.cloverbiopharma.com/index.php?m=content&c=index&a=show&
+catid=11&id=40 .
+[79] Huang Y. The SARS epidemic and its aftermath in China: a political perspective.
+Learning from SARS: Preparing for the next disease outbreak; 2004. p. 116–36.
+[80]
+Holmes KV. SARS coronavirus: a new challenge for prevention and therapy. J
+Clin Investig 2003;111(11):1605–9 .
+[81] Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of patients
+infected with 2019 novel coronavirus in Wuhan China. The Lancet 2020 .
+[82] Perlman S. Another decade, another coronavirus. Mass Medical Soc 2020 .
+[83] Bolles M, Donaldson E, Baric R. SARS-CoV and emergent coronaviruses: viral
+determinants of interspecies transmission. Current Opin Virol 2011;1(6):624–34
+.
+[84] Vara V. Coronavirus outbreak: The countries affected. 11 MARCH 2020;
+Available from: https://www.pharmaceutical-technology.com/features/
+coronavirus-outbreak-the-countries-affected/ .
+[85] Shi Y, Yi Y, Li P, Kuang T, Li L, Dong M, et al. Diagnosis of severe acute
+respiratory syndrome (SARS) by detection of SARS coronavirus nucleocapsid
+antibodies in an antigen-capturing enzyme-linked immunosorbent assay. JClin Microbiol 2003;41(12):5781–2
+.
+[86] Dong N, Yang X, Ye L, Chen K, Chan EW-C, Yang M, et al. Genomic and protein
+structure modelling analysis depicts the origin and infectivity of 2019-nCoV, a
+new coronavirus which caused a pneumonia outbreak in Wuhan, China.
+bioRxiv. 2020.
+Muhammad Adnan Shereen is a PhD researcher at Wuhan University, working on
+Zika virus and coronavirus in the aspects of pathogenesis, drug screening and
+molecular mechanisms. He is an author in 8 articles published in journals withimpact factor more than 5 including the recently accepted paper in Nature micro-biology.
+Suliman Khan has completed his PhD degree from Chinese Academy of Sciences
+and currently working at second afﬁliated hospital of Zhengzhou university aspostdoctoral scientist. He has published more than 25 articles and 5 on SARS-CoV-2in well reputed journals including Clinical microbiology and infection (CMI) andJournal of clinical microbiology (ASM-JCM) as ﬁrst and corresponding author.
+Abeer Kazmi is a PhD student at Wuhan University.
+Nadia Bashir is a PhD student at Wuhan University working on coronaviruses. She
+is an author in more than 5 papers published or accepted in renowned journals.
+Rabeea Siddique is a PhD student at Zhengzhou university. She has published more
+than 10 papers in well reputed journals as ﬁrst or coauthor.98 M.A. Shereen et al. / Journal of Advanced Research 24 (2020) 91–98
